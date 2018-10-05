@@ -35,7 +35,7 @@ Research has shown we receive 11 million bits of information every moment and we
 
 **Useful resoruces**
 * [Video from Google Ventures](https://www.youtube.com/watch?v=nLjFTHTgEVU)
-* [Unconscious Bias In The Workplace: You Can't Afford To Ignore It](Unconscious Bias In The Workplace: You Can't Afford To Ignore It) by Laura Berger
+* [Unconscious Bias In The Workplace: You Can't Afford To Ignore It](https://www.forbes.com/sites/forbescoachescouncil/2018/03/23/unconscious-bias-in-the-workplace-you-cant-afford-to-ignore-it/#1bfca5417660) by Laura Berger
 
 #### 2.2 (Un)safe environment
 We can’t expect underrepresented individuals to show up when their daily lives are filled with harassment, fear and unequal treatment. Simply opening up an opportunity to broader public doesn’t constitute an inclusion strategy.
