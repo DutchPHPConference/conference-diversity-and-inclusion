@@ -197,3 +197,150 @@ You can offer an unlimited set of “Diversity Tickets” that can be purchased 
 You can offer students a major discount to attend a single event.
 
 
+## 7. Speakers
+
+#### 7.1 Accessible presentations 
+Speakers can help making the conference more accessible by adhering to a few accessibility rules for their slides and presentation.
+
+##### Accessible Slides
+* Use a sans serif font (e.g., Arial)
+* Use a large font size -- at least 22 point
+* Use a dark text font and a light-colored background
+* Text on a slide should have nothing behind it (no watermarks or images)
+* Provide “alternative text” descriptions for all images, pictures, graphics, tables, etc.
+* Use a PowerPoint theme to structure your presentation, with only short sentences and/or bulleted phrases (about 4 lines of text/40 words per slide).
+* Avoid using epilepsy-inducing videos and animations
+
+##### Laser pointer
+Use lasers to point only; resist the urge to wiggle the light around the screen (this can be problematic for people with a variety of conditions, including vision disabilities), and turn it off when not in use.
+
+##### Microphone
+Always use the microphone; individuals may have hearing aids or may be using an assistive listening system that cannot pick up your words if you do not use the microphone. This has nothing to do with how loud you speak or how well you project.
+
+##### Questions & Answers
+* If you ask the entire audience a question, offer several ways to respond, including raising hands, calling out, standing, nodding; this will facilitate participation for those who may not be able to raise hands, speak, or stand.
+* Following the response to an audience question, let the audience know the count or estimate, such as “about half responded yes.
+
+#### 7.2 Transport
+If you offer transportation from the airport and/or hotel to the venue, consider whether or not the shuttles are wheelchair accessible. If not, think of alternate solutions: Can you organize taxi vouchers for your speakers who are using wheelchairs? Can you rent an accessible van to organize pick up and drop off?
+
+#### 7.3 Dietary needs
+Don’t forget to ask your speakers about their dietary needs and/or food allergies and intolerances. See chapter “Catering” for more information.
+
+Catering does not only include conference food, but also (if applicable) speaker’s dinner and breakfast at hotel.
+
+
+## 8. Catering
+The number and variety of special diet requests has grown significantly in recent years. These needs include attendees with food allergies and intolerances, as well as those on special diets for medical, health, religious, or other reasons.
+
+#### 8.1 Dietary definitions, food allergies, and religious restrictions
+Useful document from Webster University with [definitions and descriptions](http://www.webster.edu/specialevents/planning/food-information.html).
+
+#### 8.2 Dietary requirements compliant food
+Avoid high-risk allergens, such as peanuts and shellfish. Other common foods or ingredients that can cause allergic reactions or other problems for some people include eggs, cow’s milk, wheat and gluten, fish, tree nuts, and soy.
+
+#### 8.3 Common dietary restrictions - order plenty
+For common restrictions, e.g., vegetarianism, expect that people will eat that food even if they don’t have that restriction. Have the bulk of the food catering to the common restriction, and only a small amount of food that those attendees can’t eat. For example, if your event is 50% vegetarian, cater as if 80% of attendees are vegetarian. Then there is plenty of food for the people with the restriction and other attendees get to enjoy it as well. It is an uncommon pleasure for people with dietary restrictions to be over-catered to.
+
+#### 8.4 Organise distribution of food
+Develop a plan to provide attendees with food items that meet their needs.
+
+#### 8.5 Easy to handle food
+Avoid items that are difficult to cut or handle (such as lobster in shells).
+
+#### 8.6 Recommendations for Buffet meals
+* Buffet service tables should be no higher than 36 inches.
+* Set plates, cups, and other service items, as well as food and beverage items, at table height, within reach of people using mobility devices and those of short stature. Avoid food set-ups with multiple tiers.
+* Set buffet tables in straight lines (avoiding patterns will reduce wait times).
+* Keep chafing dishes for hot food (also known as “chafers”) as low as possible. Avoid gel fuel heaters, since they are a frequent source of reaction for those with chemical sensitivities.
+* Avoid soup as a buffet menu option (it can be difficult for some people to serve or carry); serve soup at tables.
+* Provide additional servers to assist attendees. Buffet style service is difficult for many people with various types of disabilities. Servers may offer assistance describing items, reaching for food, and carrying plates and drinks to tables.
+* Attendees may have personal assistants with them to help get food and/or eat. Assistants who are eating may need to go through the buffet line twice.
+* Consider setting extra buffet lines if many attendees have disabilities, as they may need a little more time to go through the line.
+
+#### 8.7 Alcohol and increased harassment risk
+Intoxication (usually drunkenness) both genuinely lowers inhibitions and provides people with an excuse for acting badly even if they genuinely knew better. Additionally, intoxication affects people’s ability to defend themselves, and some intoxicants including alcohol cause amnesia. Given this risk, decide whether you want to have alcohol available at your event.
+
+If you do have alcohol, make it clear to attendees that the anti-harassment policy applies to the entire event, including when alcohol is served. Additionally, make sure attendees know that/when alcohol will be available so they can prepare accordingly.
+
+At the event, make sure there are an appropriate number of sober staff on hand to assist with any problems if they arise. Make sure to clearly identify the staff members at the beginning of the event. [Read more](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/).
+
+
+## 9. Designs & printed materials
+
+#### 9.1 Name badges
+The purpose of a name badge is to identify people easily. As such, it should be easy to read! You should use a large, easy to read font. Sans serif fonts are generally regarded as a good choice. Make the name stand out and contrast well - avoid grey on grey! A font size of 18 points or bigger if you can make it fit would make a difference.
+
+#### 9.2 Maximize legibility of print
+* Use a strong, simple font and avoid fine or ‘fancy’ fonts. Minimum font size should be 18 point.
+* Text should begin at the left margin (centered text is harder to read)
+* Narrow text columns rather than wide ones, and right margins that are ragged, not justified
+* One-and-one-half or double spacing between lines
+* Spacing between letters that is not too tight or too loose
+* Lower case letters with initial capitals rather than all capitals
+* Use dot leaders for tables of contents.
+* Lines of text should be no longer than six inches (anything longer than six inches will not track well for people who use magnifiers)
+* Black lettering on white, non-shiny paper. The best contrast with the least glare is bold type on yellow paper (white paper can produce too much glare). If white paper needs to be used, use an off-white paper that will still give good contrast while producing less glare than white. 
+* The paper should not be larger than standard Letter (8 1/2" x 11"). 
+
+## 10. Website
+
+#### 10.1 Accessibility
+Your website should be accessible. This means that it can be used by people who have different abilities, and may rely on assistive technologies. The guidelines here would be to adhere to [WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/). Here are a few things to consider:
+* Can you navigate your site using only the keyboard?
+* Can text be resized without losing information?
+* Are links easily identifiable?
+* Is the color contrast sufficient?
+* Do all informative images have alternate text?
+* Are labels associated with form inputs?
+
+
+#### 10.2 Schedule
+Schedules are often complex information delivered through one or several HTML data tables. Ensure that these tables are coded according to standards so assistive technologies can interact programmatically with them. This is especially true if you are running several streams in several rooms on different days.
+
+#### 10.3 Accessibility Statement
+List clearly what attendees can expect (and what not to expect)
+
+#### 10.4 Images and photos
+Use (stock) photos of people from underrepresented groups in professional settings. Showing only white males reinforces the stereotypes.
+
+## 11. Staff & volunteers
+
+#### 11.1 Call for paper Review
+Make sure you have a diverse team reviewing the CfP abstract as this will stimulate a more diverse selection of talks.
+
+#### 11.2 Code of Conduct
+* Appoint a response team to assist with any incidents that may arise
+* Ensure not only the Code of Conduct committee but the entire staff is well aware of precautions, reporting and the process set in place to ensure participants safety
+
+#### 11.3 Alcohol and staff
+If alcohol is served during the event, make sure there are an appropriate number of sober staff on hand to assist with any problems if they arise. Make sure to clearly identify the staff members at the beginning of the event. 
+
+
+## 12.  Call for Papers
+
+
+
+## 13. Diverse Speaker Like-up
+
+#### 13.1 Proactively reach out to underrepresented groups
+
+* [Fempire: a list of women tech speakers & organizers](https://github.com/fempire/women-tech-speakers-organizers) 
+* [1,000 Tech and Science Speakers Who Aren't Cis Men](https://docs.google.com/spreadsheets/d/1opOWf8lMYOvBk6ou0RBlAt5jfyGvEbTZ1f_wxDs8Lno/edit#gid=0)
+
+
+
+## 14. Sources
+
+* [How to make your conference accessible  – and why you should care!](https://incl.ca/how-to-make-your-conference-accessible-and-why-you-should-care/) - Nicolas Steenhout
+* [Accessible Meetings, events & conferences Guide](http://www.adahospitality.org/accessible-meetings-events-conferences-guide) - ADA Hospitality
+* [Inclusion has to be proactive](https://medium.com/@fox/inclusion-has-to-be-proactive-b01a37f85148) - Karolina Szczur
+* [Example accessibility statement](https://2018.cssconf.com.au/accessibility) - CSSConf AU 2018
+* [Nonsexist language](http://geekfeminism.wikia.com/wiki/Nonsexist_language) - Geek Feminism Wiki
+* [Inclusive event catering](https://adacamp.org/adacamp-toolkit/inclusive-event-catering/) - AdaCamp Toolkit
+* [How to write a great code of conduct](https://medium.com/uplifttogether/how-to-write-a-great-code-of-conduct-2d32448c96a) - Uplift
+* [When a Code of Conduct becomes harmful](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa) - Karolina Szczur
+
+
+
+
