@@ -58,4 +58,32 @@ Avoid using male pronouns ("he", "him", "his") in circumstances that describe pe
 For example, avoid these words when addressing groups: Guys, Ladies & Gentlemen. Instead use: Folks, Everybody, People. More examples [here](http://geekfeminism.wikia.com/wiki/Nonsexist_language). 
 
 
+## 4. Code of Conduct
+
+#### 4.1 Implement an enforceable Code of Conduct
+A few aspects of an enforceable Code of Conduct are: 
+* List of unacceptable behaviors (“be nice to each other” doesn’t cut it)  
+* Specific guidelines on how the Code of Conduct will be enforced 
+* Detailed description of ways to report in person, online and anonymously  
+* Organizer contact information 
+* Emergency numbers and addresses within the vicinity of the venue 
+
+More information about Code of Conducts here and here.
+
+#### 4.2 Applicable to all people present at the event
+This means delegates/attendees, speakers, volunteers, sponsors, exhibitors, organizers and venue-staff.
+
+#### 4.3 Visibility
+It is important to communicate about the Code of Conduct visibly and often.
+
+#### 4.4 Contact details
+Share contact details of identifiable persons (cell phone number, email address, twitter handle, etc.)
+
+#### 4.5 Code of Conduct guardians / response team
+A person or a team who is responsible for assisting with any incidents that may arise
+
+#### 4.6 Instruct all staff
+Ensure not only the Code of Conduct ‘response team’ but the entire staff is well aware of precautions, reporting and the process set in place to ensure participants safety
+
+
 
