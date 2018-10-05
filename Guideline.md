@@ -1,4 +1,4 @@
-# Diversity and Inclusion Guidelines for Conferences
+# Guidelines for Conference Organizers
 
 
 > *_"Diversity Doesn't Stick Without Inclusion”_*
