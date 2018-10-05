@@ -1,6 +1,6 @@
 # Diversity and Inclusion Guidelines for Conferences
 
-*_Diversity Doesn't Stick Without Inclusion_*
+##*_Diversity Doesn't Stick Without Inclusion_*
 
 
 
