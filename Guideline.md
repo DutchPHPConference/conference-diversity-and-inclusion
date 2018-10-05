@@ -38,10 +38,24 @@ We can’t expect underrepresented individuals to show up when their daily lives
 #### 2.3 Going beyond gender
 Often, diversity efforts are focused solely on gender (concentrating on including white women, to be specific). While it’s reasonable to start somewhere, diversity and inclusion are nowhere near one dimensional.
 
-### 2.4 Not intentional, still harmful
+#### 2.4 Not intentional, still harmful
 Having used sexist language does not mean that the person who used it had sexist intent. However, continuing to include sexist language, and fighting against a change away from sexist language, has sexist effects regardless of intent.
 Lots of communication habits are deeply ingrained: changing the way you write or speak does sometimes take extra effort. With practice, it does get easier.
 
-### 2.5 Audience
+#### 2.5 Audience
 Knowing your audience is critical to ensuring that meeting room layouts, menus, and other elements of the event will allow every participant to engage fully. Make sure your registration materials and forms ask specifically about your audience's needs and accommodations. 
+
+
+## 3. Language
+
+#### Choosing words with dignity
+What you write and what you say can enhance the dignity of people with disabilities and promote positive attitudes about their abilities. This [pdf](http://www.adahospitality.org/sites/default/files/sites/default/files/Choosing%20Words%20with%20Dignity.pdf) includes examples of Affirmative Phrases (Do use) and Negative Phrases (Don't use)
+
+#### Avoid gendered pronouns
+Avoid using male pronouns ("he", "him", "his") in circumstances that describe people of any gender.  Find examples of nonsexist language [here](http://geekfeminism.wikia.com/wiki/Nonsexist_language) 
+
+#### Avoid gendered terms
+For example, avoid these words when addressing groups: Guys, Ladies & Gentlemen. Instead use: Folks, Everybody, People. More examples [here](http://geekfeminism.wikia.com/wiki/Nonsexist_language). 
+
+
 
