@@ -165,3 +165,35 @@ Accessible bathrooms should be in near proximity, but sometimes accessible bathr
 
 
 
+
+## 6. Attendees
+
+#### 6.1 Outlining what to expect
+Outlining what to expect becomes crucial to welcoming anyone with hearing, sight impairments or mobility issues. Examples:
+* Format of provided materials 
+* Communication Aids 
+* Mobility devices 
+* Accompanied by service animal or personal assistant 
+* Dietary restrictions / Food allergies/intolerances
+
+#### 6.2 Dietary Requirements
+Collect information about your attendee’s dietary needs during the registration process. It’s the responsibility of attendees to notify you of their needs in advance so you can make appropriate plans. More information on Dietary requirements in Chapter Catering.
+
+#### 6.3 Service animals
+Service animals may need space similar to mobility devices (plan for two seating spaces for each person bringing a service animal).
+
+Point out in your materials any places that can be used as “relief areas” for service animals 
+
+#### 6.4 Transport & parking
+
+
+#### 6.5 Scholarship program
+A fixed amount of free tickets could be given out to individuals from underrepresented groups, who couldn’t attend otherwise.
+
+#### 6.6 Purchasable Diversity Supporter Tickets
+You can offer an unlimited set of “Diversity Tickets” that can be purchased by anyone and donated to the Scholarship Program pool.
+
+#### 6.7 Subsidized Student Tickets
+You can offer students a major discount to attend a single event.
+
+
