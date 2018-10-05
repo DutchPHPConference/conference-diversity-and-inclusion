@@ -1,7 +1,7 @@
 # Diversity and Inclusion Guidelines for Conferences
 
 
-## *_"Diversity Doesn't Stick Without Inclusion”_*
+> *_"Diversity Doesn't Stick Without Inclusion”_*
 
 
 ## 1. Definitions
