@@ -32,7 +32,10 @@ But understanding them as fundamentally different things is essential, because i
 #### 2.1 Combat unconscious bias
 Unconscious biases are shortcuts our brains take in processing information. We are all guilty of bias. 
 Research has shown we receive 11 million bits of information every moment and we can only consiously process 40 bits of information. This means 99,999996% of the information we receive is processed unconsiously. 
-Watch [this video](https://www.youtube.com/watch?v=nLjFTHTgEVU) from Google Ventures for more background information on unconcious bias and how we can prevent it from negatively ipacting our decision making, 
+
+**Useful resoruces**
+* [Video from Google Ventures](https://www.youtube.com/watch?v=nLjFTHTgEVU)
+* [Unconscious Bias In The Workplace: You Can't Afford To Ignore It[(Unconscious Bias In The Workplace: You Can't Afford To Ignore It) by Laura Berger
 
 #### 2.2 (Un)safe environment
 We can’t expect underrepresented individuals to show up when their daily lives are filled with harassment, fear and unequal treatment. Simply opening up an opportunity to broader public doesn’t constitute an inclusion strategy.
