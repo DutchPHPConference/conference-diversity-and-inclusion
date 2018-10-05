@@ -92,22 +92,23 @@ Venues include the  conference venue, conference social venue, speaker’s diner
 Overall accessibility checklist for existing facilities from ADA: [Checklist for Readily Achievable Barrier Removal](http://uiaccess.com/facilities.html). Also available in [PDF](https://www.adachecklist.org/doc/fullchecklist/ada-checklist.pdf).
 
 #### 5.1 Accessible set-up of rooms
-* **Large amphitheater room
+
+* **Large amphitheater room**
 If you have presentations in amphitheater, ensure there are spaces available for a wheelchair user to "park" themselves to follow the presentation. Ensure entrances to the amphitheater aren't at the high end of the room, and if they are, that there is a low gradient ramp to be able to go down. Avoid placing the wheelchair seating area at the back of the room only.
 
-* **Theater set-up
-** Minimum widths for center and side aisles, and for the distance between accessible and standard rows
-** Remove two chairs for each mobility device space.
-** Offer multiple choices of where to sit. At a minimum set the front, back and middle rows accessible to ensure attendee choice of seats in the room.
-** See drawings in pdf: [Theater style layout](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Theater%20style%20layout.pdf) and [detailed layout](http://www.adahospitality.org/sites/default/files/documents/Final%20Detail%20view%20Acc%20Theater%20style.pdf).
+* **Theater set-up**
+  * Minimum widths for center and side aisles, and for the distance between accessible and standard rows
+  * Remove two chairs for each mobility device space.
+  * Offer multiple choices of where to sit. At a minimum set the front, back and middle rows accessible to ensure attendee choice of seats in the room.
+  * See drawings in pdf: [Theater style layout](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Theater%20style%20layout.pdf) and [detailed layout](http://www.adahospitality.org/sites/default/files/documents/Final%20Detail%20view%20Acc%20Theater%20style.pdf).
 
-* **Classroom set-up
+* **Classroom set-up**
 Same pointers, see [drawing of Accessible classroom set-up](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Classroom%20set%20up%20layout.pdf)
 
-* **Round Table set-up
-Same pointers, see [drawing of Accessible Round Table set-up](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Round%20table%20set%20up%20layout.pdf)
+* **Round Table set-up**
+ Same pointers, see [drawing of Accessible Round Table set-up](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Round%20table%20set%20up%20layout.pdf)
 
-* **Set-up of Dining Hall
+* **Set-up of Dining Hall** 
 If you offer meals, such as lunch, plan the layout of the dining hall carefully. Ensure there is enough space between the tables (including with people seating at chairs) for a wheelchair user or someone using a guide dog to be able to navigate through. Otherwise you risk forcing people with limited mobility to sit near the doors, or be unable to reach the buffet table.
 
 #### 5.2 Hearing impairment assisted
