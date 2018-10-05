@@ -1,5 +1,7 @@
 # Diversity and Inclusion Guidelines for Conferences
 
+Diversity Doesn't Stick Without Inclusion
+
 
 
 ## License
