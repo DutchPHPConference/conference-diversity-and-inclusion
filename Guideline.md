@@ -86,4 +86,81 @@ A person or a team who is responsible for assisting with any incidents that may 
 Ensure not only the Code of Conduct ‘response team’ but the entire staff is well aware of precautions, reporting and the process set in place to ensure participants safety
 
 
+## 5.Venues
+Venues include the  conference venue, conference social venue, speaker’s diner, networking meetup and all other venues part of the conference experience.
+
+Overall accessibility checklist for existing facilities from ADA: [Checklist for Readily Achievable Barrier Removal](http://uiaccess.com/facilities.html). Also available in [PDF](https://www.adachecklist.org/doc/fullchecklist/ada-checklist.pdf).
+
+#### 5.1 Accessible set-up of rooms
+* **Large amphitheater room
+If you have presentations in amphitheater, ensure there are spaces available for a wheelchair user to "park" themselves to follow the presentation. Ensure entrances to the amphitheater aren't at the high end of the room, and if they are, that there is a low gradient ramp to be able to go down. Avoid placing the wheelchair seating area at the back of the room only.
+
+* **Theater set-up
+** Minimum widths for center and side aisles, and for the distance between accessible and standard rows
+** Remove two chairs for each mobility device space.
+** Offer multiple choices of where to sit. At a minimum set the front, back and middle rows accessible to ensure attendee choice of seats in the room.
+** See drawings in pdf: [Theater style layout](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Theater%20style%20layout.pdf) and [detailed layout](http://www.adahospitality.org/sites/default/files/documents/Final%20Detail%20view%20Acc%20Theater%20style.pdf).
+
+* **Classroom set-up
+Same pointers, see [drawing of Accessible classroom set-up](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Classroom%20set%20up%20layout.pdf)
+
+* **Round Table set-up
+Same pointers, see [drawing of Accessible Round Table set-up](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Round%20table%20set%20up%20layout.pdf)
+
+* **Set-up of Dining Hall
+If you offer meals, such as lunch, plan the layout of the dining hall carefully. Ensure there is enough space between the tables (including with people seating at chairs) for a wheelchair user or someone using a guide dog to be able to navigate through. Otherwise you risk forcing people with limited mobility to sit near the doors, or be unable to reach the buffet table.
+
+#### 5.2 Hearing impairment assisted
+
+##### Interpreters
+People who are deaf or hard of hearing may require the assistance of a sign language interpreter to benefit from the presentations. Hiring interpreters to cover all sessions may turn out to be cost prohibitive if you have a particularly large event. Or you may even have a hard time finding interpreters in your area to cover all events. Where possible, all efforts should be made to ensure interpreters are available, if you know that you will have attendees that need interpreters.
+
+##### Realtime Translation services
+Ask if the facility has experience offering Communication Access Realtime Translation (CART) services, or if they have a local contact who can provide this service if needed.
+What is CART?  Basically someone is typing what the presenter says and the transcription is projected on a screen near the main display screen. This has the added advantage that you end up with a transcript of the presentation that you can use to create subtitles for your videos (more on that later), or simply to provide for the attendees after the presentation.
+
+##### Assistive listening devices
+Find out in advance if your facility has any assistive listening systems or devices available, how the meeting room is wired and equipped for sound amplification, and if there are additional costs for accessibility equipment and associated services. 
+
+#### 5.3 Visual Impairment assisted
+
+* Hallways should be wide and clear of obstructions. This will help people with sight impairments, particularly if they use a cane for mobility.
+* Preferred seating will be reserved for the visually impaired.
+* Also see instructions on slides/presentations in chapter “Speakers” and instructions on printed material in chapter “Designs & printed Materials”. 
+
+#### 5.4 Service Animals
+Make sure that all event and facility staff understand that service dogs are allowed in places of public accommodation, including hotels, convention centers, restaurants, and other venues that serve food. Service dogs are specifically trained to assist people with all types of disabilities.
+
+Service animals may need space similar to mobility devices (plan for two seating spaces for each person bringing a service animal).
+
+Point out in your materials any places that can be used as “relief areas” for service animals. 
+
+#### 5.5 Gender neutral restrooms
+A gender neutral restroom is important for attendees who do not feel comfortable choosing between binary-gendered restrooms
+
+#### 5.6 Childcare
+Conference childcare allows parents and guardians to attend your event and more fully participate than they would be able to if they had to primarily care for a child. 
+Interesting read: [Helpful thoughts for Conference Organizers](https://medium.com/leaky-abstractions/conference-childcare-part-1-helpful-thoughts-for-conference-organizers-203d2b34df5b)
+
+#### 5.7 Baby Care/ nursing Room
+Room containing baby changing bench and other baby facilities (like microwave to heat food).
+
+#### 5.8 Quiet Room
+A quiet room is a comfortable room where talking and other interactions with other attendees aren’t allowed.
+
+#### 5.9 Prayer Room
+An area containing a washroom and private cubicle(s) (possible to lock from the inside) where people of all faiths can pray or meditate in a peaceful environment.
+
+#### 5.10 Demarcated access lanes
+Corridors on the floor marked with tape in which people could move, but shouldn’t be stationary, allowing clear travel paths through the event. Important for people with anxiety of crowds.
+
+#### 5.11 Fully wheelchair accessible
+
+* If the presenter is expected to speak on a stage, is there a ramp or level entry to get on the ramp. If there isn't, find another room for wheelchair using speakers. Don't offer to lift them and their chair bodily up on stage. It is neither dignified nor safe!
+* Are there accessible bathrooms near the conference and dining rooms? This includes having stalls large enough to permit a wheelchair to go in, as well as sinks and taps that can be reached from a wheelchair.
+Accessible bathrooms should be in near proximity, but sometimes accessible bathrooms are only available on different floors of the venue than the one where the conference is being held. If that is the case, ensure appropriate signage and information so people who need accessible toilets will know how to get to them.
+* Hallways should be wide and clear of obstructions. This will help mobility for wheelchair users.
+* Registration desk - if it is a high surface, offer an alternative location for wheelchair users or people of short stature to be able to interact with staff.
+
+
 
