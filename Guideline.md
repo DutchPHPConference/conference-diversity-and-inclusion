@@ -34,7 +34,7 @@ Unconscious biases are shortcuts our brains take in processing information. We a
 Research has shown we receive 11 million bits of information every moment and we can only consiously process 40 bits of information. This means 99,999996% of the information we receive is processed unconsiously. 
 
 **Useful resoruces**
-* [Video from Google Ventures](https://www.youtube.com/watch?v=nLjFTHTgEVU)
+* [Unconscious Bias @ work](https://www.youtube.com/watch?v=nLjFTHTgEVU) by Dr. Brian Welle, Director of Peeple Analytics at Google
 * [Unconscious Bias In The Workplace: You Can't Afford To Ignore It](https://www.forbes.com/sites/forbescoachescouncil/2018/03/23/unconscious-bias-in-the-workplace-you-cant-afford-to-ignore-it/#1bfca5417660) by Laura Berger
 
 #### 2.2 (Un)safe environment
