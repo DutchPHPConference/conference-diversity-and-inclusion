@@ -7,6 +7,7 @@
 #### 1.1 Diversity
 Diversity represents the full spectrum of human demographic differences -- race, religion, gender, sexual orientation, age, socio-economic status or physical disability. 
 A lot of companies consider lifestyles, personality characteristics, perspectives, opinions, family composition, education level or tenure elements of diversity, too.
+
 As a starting point to assess diversity, you need to quantify the various constituencies -- demographic, social and otherwise.
 
 #### 1.2 Inclusion
