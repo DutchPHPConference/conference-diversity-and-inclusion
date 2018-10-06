@@ -309,7 +309,7 @@ Your website should be accessible. This means that it can be used by people who 
 * Can you navigate your site using only the keyboard?
 * Can text be resized without losing information?
 * Are links easily identifiable?
-* Is the color contrast sufficient? See pointers for designing here [Color vision deficiency](#### 9.3 Color vision deficiency)
+* Is the color contrast sufficient? See pointers for designing here [9.3 Color vision deficiency](#9.3 Color vision deficiency)
 * Do all informative images have alternate text?
 * Are labels associated with form inputs?
 
