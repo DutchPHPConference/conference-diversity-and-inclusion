@@ -366,6 +366,7 @@ You can find a review of free tools [here](https://blog.amara.org/2018/05/02/11-
 * **Youtube Automatic Subtitles** - It’s also super easy to use. If your video is in English, they will start the auto-captioning at the time you upload your video. 
 
 **Accurracy of speech recognition**
+
 Speech recognition accuracy can be as high as 90% when your video has one person in a quiet location speaking clearly using simple terms. In these cases, you should still allow time for cleaning up the file because even at the high quality level of 90%, this still means one in every ten words is wrong and that can grossly impact comprehension.
 
 ## 14. Sources
