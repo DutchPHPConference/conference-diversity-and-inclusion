@@ -325,29 +325,28 @@ Use (stock) photos of people from underrepresented groups in professional settin
 
 ## 11. Staff & volunteers
 
-#### 11.1 Call for paper Review
-Make sure you have a diverse team reviewing the CfP abstract as this will stimulate a more diverse selection of talks.
-
-#### 11.2 Code of Conduct
+#### 11.1 Code of Conduct
 * Appoint a response team to assist with any incidents that may arise
 * Ensure not only the Code of Conduct committee but the entire staff is well aware of precautions, reporting and the process set in place to ensure participants safety
 
-#### 11.3 Alcohol and staff
+#### 11.2 Alcohol and staff
 If alcohol is served during the event, make sure there are an appropriate number of sober staff on hand to assist with any problems if they arise. Make sure to clearly identify the staff members at the beginning of the event. 
 
 
 ## 12.  Call for Papers
 
-
-
-## 13. Diverse Speaker Like-up
-
-#### 13.1 Proactively reach out to underrepresented groups
+#### 12.1 Proactively reach out to underrepresented groups
 
 * [Fempire: a list of women tech speakers & organizers](https://github.com/fempire/women-tech-speakers-organizers) 
 * [1,000 Tech and Science Speakers Who Aren't Cis Men](https://docs.google.com/spreadsheets/d/1opOWf8lMYOvBk6ou0RBlAt5jfyGvEbTZ1f_wxDs8Lno/edit#gid=0)
 
+#### 12.2 Call for paper Review team
+Make sure you have a diverse team reviewing the CfP abstract as this will stimulate a more diverse selection of talks.
 
+#### 12.3 Blind review
+Use a review systems that allows for concealing the author identities from the reviewers. 
+When you use this system, it's important to not only conceal the the name of the author but also the details of additional information you may have asked on the CfP form like links to video, slides and reviews of the talk. 
+This blind review helps to combat the unconsious bias we all have, see [2.1 Combat Unconsious Bias](#21-Combat-unconscious-bias)
 
 ## 14. Sources
 
