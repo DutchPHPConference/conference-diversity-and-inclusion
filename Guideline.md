@@ -127,7 +127,7 @@ People who are deaf or hard of hearing may require the assistance of a sign lang
 Ask if the facility has experience offering Communication Access Realtime Translation (CART) services, or if they have a local contact who can provide this service if needed.
 What is CART?  Basically someone is typing what the presenter says and the transcription is projected on a screen near the main display screen. This has the added advantage that you end up with a transcript of the presentation that you can use to create subtitles for your videos (more on that later), or simply to provide for the attendees after the presentation.
 
-For non-realtime transciption/subtitling see [chapter 13](13-subtitling-of-videos)
+For non-realtime transciption/subtitling see [13. Subtitling of video's](13-subtitling-of-videos)
 
 ##### Assistive listening devices
 Find out in advance if your facility has any assistive listening systems or devices available, how the meeting room is wired and equipped for sound amplification, and if there are additional costs for accessibility equipment and associated services. 
