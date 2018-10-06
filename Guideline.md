@@ -348,6 +348,25 @@ Use a review systems that allows for concealing the author identities from the r
 When you use this system, it's important to not only conceal the the name of the author but also the details of additional information you may have asked on the CfP form like links to video, slides and reviews of the talk. 
 This blind review helps to combat the unconsious bias we all have, see [2.1 Combat Unconsious Bias](#21-combat-unconscious-bias)
 
+## 13. Subtitling of video's
+
+#### Why you should care
+For people with hearing impairments, captions are the only way to enjoy, and benefit from, the video content. Even for those able to lipread, a large chunk of video content features people speaking off camera, or sound overlay over images or other visuals.
+
+Additional benefits of subtitling video:
+* up to 85% of users watches video content with no sounds
+* about 65% of people are visual learners
+
+#### Video Captioning tools
+You can find a review of free tools [here](https://blog.amara.org/2018/05/02/11-free-tools-to-make-your-captioning-process-easier-in-2018/#sco). A summary of some of the findings:
+* **Google Doc Voice-typing Tool(combined with Soundflower)** - super easy to use, howwever, the accuracy of using microphone input might be affected by the surrounding noise. A way to get around this problem is to use Soundflower. It's about 85% accurate and supports multiple languages and accents
+* **Amara** - directly syncs your subtitles with Youtube, Vimeo, Facebook and Twitter without extra steps of download/upload( If you own the channel) and easy to use for collaborative translation after captioning. Used by TED and Udacity.
+* **Youtube Automatic Subtitles** - It’s also super easy to use. If your video is in English, they will start the auto-captioning at the time you upload your video. 
+
+
+
+
+
 ## 14. Sources
 
 * [How to make your conference accessible  – and why you should care!](https://incl.ca/how-to-make-your-conference-accessible-and-why-you-should-care/) - Nicolas Steenhout
@@ -359,6 +378,7 @@ This blind review helps to combat the unconsious bias we all have, see [2.1 Comb
 * [How to write a great code of conduct](https://medium.com/uplifttogether/how-to-write-a-great-code-of-conduct-2d32448c96a) - Uplift
 * [When a Code of Conduct becomes harmful](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa) - Karolina Szczur
 * [How to design for color Blindness](https://usabilla.com/blog/how-to-design-for-color-blindness/) - Robyn Collinge
+* [The Importance of Subtitling: Accessibility for All](https://blog.amara.org/2018/04/24/the-importance-of-subtitling-accessibility-for-all/) - Amara Subtitling Blog
 
 
 
