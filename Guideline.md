@@ -346,7 +346,7 @@ Make sure you have a diverse team reviewing the CfP abstract as this will stimul
 #### 12.3 Blind review
 Use a review systems that allows for concealing the author identities from the reviewers. 
 When you use this system, it's important to not only conceal the the name of the author but also the details of additional information you may have asked on the CfP form like links to video, slides and reviews of the talk. 
-This blind review helps to combat the unconsious bias we all have, see [2.1 Combat Unconsious Bias](#21-Combat-unconscious-bias)
+This blind review helps to combat the unconsious bias we all have, see [2.1 Combat Unconsious Bias](#21-combat-unconscious-bias)
 
 ## 14. Sources
 
