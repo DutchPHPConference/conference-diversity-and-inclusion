@@ -43,6 +43,8 @@ We can’t expect underrepresented individuals to show up when their daily lives
 #### 2.3 Going beyond gender
 Often, diversity efforts are focused solely on gender (concentrating on including white women, to be specific). While it’s reasonable to start somewhere, diversity and inclusion are nowhere near one dimensional.
 
+Read more about the [Dimensions of Diversity](http://www.lacrosseconsortium.org/uploads/content_files/Dimensions_of_Diversity_Wheel_Expanded.pdf)
+
 #### 2.4 Not intentional, still harmful
 Having used sexist language does not mean that the person who used it had sexist intent. However, continuing to include sexist language, and fighting against a change away from sexist language, has sexist effects regardless of intent.
 Lots of communication habits are deeply ingrained: changing the way you write or speak does sometimes take extra effort. With practice, it does get easier.
