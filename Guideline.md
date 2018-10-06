@@ -30,8 +30,8 @@ So, it's true that diversity and inclusion work together to affect outcomes.
 But understanding them as fundamentally different things is essential, because it bifurcates and clarifies the primary challenge for leaders: understanding the implication that demographic variety has on business performance, and creating an environment that invites the full spectrum of employee perspectives and maximizes them.
 
 #### 2.1 Combat unconscious bias
-Unconscious biases are shortcuts our brains take in processing information. We are all guilty of bias. 
-Research has shown we receive 11 million bits of information every moment and we can only consiously process 40 bits of information. This means 99,999996% of the information we receive is processed unconsiously. 
+Unconscious biases are shortcuts our brains take in processing information. We are all guilty of bias.
+Unconscious biases are learned and deeply ingrained stereotypes about other people based on traits like gender, social class, race, and height and weight. These hidden judgments can extend to a person’s educational level, disability, sexuality, accent, social status, and job title. While unconscious biases are automatic and unintentional, they can influence behavior. 
 
 **Useful resoruces**
 * [Unconscious Bias @ work](https://www.youtube.com/watch?v=nLjFTHTgEVU) by Dr. Brian Welle, Director of Peeple Analytics at Google
