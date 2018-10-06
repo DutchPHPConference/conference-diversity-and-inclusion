@@ -352,14 +352,14 @@ This blind review helps to combat the unconsious bias we all have, see [2.1 Comb
 
 ## 13. Subtitling of video's
 
-#### Why you should care
+#### 13.1 Why you should care
 For people with hearing impairments, captions are the only way to enjoy, and benefit from, the video content. Even for those able to lipread, a large chunk of video content features people speaking off camera, or sound overlay over images or other visuals.
 
 Additional benefits of subtitling video:
 * up to 85% of users watches video content with no sounds
 * about 65% of people are visual learners
 
-#### Video Captioning tools
+#### 13.2 Video Captioning tools
 You can find a review of free tools [here](https://blog.amara.org/2018/05/02/11-free-tools-to-make-your-captioning-process-easier-in-2018/#sco). A summary of some of the findings:
 * **Google Doc Voice-typing Tool(combined with Soundflower)** - super easy to use, howwever, the accuracy of using microphone input might be affected by the surrounding noise. A way to get around this problem is to use Soundflower. It's about 85% accurate and supports multiple languages and accents
 * **Amara** - directly syncs your subtitles with Youtube, Vimeo, Facebook and Twitter without extra steps of download/upload( If you own the channel) and easy to use for collaborative translation after captioning. Used by TED and Udacity.
