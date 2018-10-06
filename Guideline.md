@@ -290,6 +290,18 @@ The purpose of a name badge is to identify people easily. As such, it should be 
 * Black lettering on white, non-shiny paper. The best contrast with the least glare is bold type on yellow paper (white paper can produce too much glare). If white paper needs to be used, use an off-white paper that will still give good contrast while producing less glare than white. 
 * The paper should not be larger than standard Letter (8 1/2" x 11"). 
 
+#### 9.3 Color vision deficiency
+Color vision deficiency, also known as color blindness, is the decreased ability to see color or differences in color.About 8% of people have some form of color vision deficiency. So if your running a conference for say 200 attendees, up to 16 will see your design different then intended. 
+
+**[Design pointers for better color accessibility](https://usabilla.com/blog/how-to-design-for-color-blindness/)**
+* Use both colors and symbols - don't rely on color alone and use symbols to convey the message
+* Keep it minimal - fewer colors leads to fewer instances of confusion
+* Use patterns and textures to show contrast
+* Use a range of clearly contrasting colors - there are several tests available on the web, for example [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/) where you can upload your design and the algorithms transform the iamge into the same image as seen by people with differect kinds of colour vision deficiencies (red-, green-, blue- or completely colorblind).
+* Avoid bad color combos - not nly the well-known combination of Red & Green, but also Green & Brown, Blue & Purple, Green & Blue, Light Green & Yellow, Blue & Grey, Green & Grey, Green & Black
+
+Read more on [Types of Colour Blindness](http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/). It shows the visual effects of color vision deficiency very well. 
+
 ## 10. Website
 
 #### 10.1 Accessibility
@@ -297,7 +309,7 @@ Your website should be accessible. This means that it can be used by people who 
 * Can you navigate your site using only the keyboard?
 * Can text be resized without losing information?
 * Are links easily identifiable?
-* Is the color contrast sufficient?
+* Is the color contrast sufficient? See pointers for designing here [Color vision deficiency](#### 9.3 Color vision deficiency)
 * Do all informative images have alternate text?
 * Are labels associated with form inputs?
 
@@ -347,6 +359,7 @@ If alcohol is served during the event, make sure there are an appropriate number
 * [Inclusive event catering](https://adacamp.org/adacamp-toolkit/inclusive-event-catering/) - AdaCamp Toolkit
 * [How to write a great code of conduct](https://medium.com/uplifttogether/how-to-write-a-great-code-of-conduct-2d32448c96a) - Uplift
 * [When a Code of Conduct becomes harmful](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa) - Karolina Szczur
+* [How to design for color Blindness](https://usabilla.com/blog/how-to-design-for-color-blindness/) - Robyn Collinge
 
 
 
