@@ -350,6 +350,8 @@ Use a review systems that allows for concealing the author identities from the r
 When you use this system, it's important to not only conceal the the name of the author but also the details of additional information you may have asked on the CfP form like links to video, slides and reviews of the talk. 
 This blind review helps to combat the unconsious bias we all have, see [2.1 Combat Unconsious Bias](#21-combat-unconscious-bias)
 
+Interesting [blog post](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/) by Julia Evans about how Anonymous talk reviews worked at !!Con.
+
 ## 13. Subtitling of video's
 
 #### 13.1 Why you should care
