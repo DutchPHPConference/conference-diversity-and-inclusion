@@ -43,7 +43,7 @@ We can’t expect underrepresented individuals to show up when their daily lives
 #### 2.3 Going beyond gender
 Often, diversity efforts are focused solely on gender (concentrating on including white women, to be specific). While it’s reasonable to start somewhere, diversity and inclusion are nowhere near one dimensional.
 
-Read more about the [Dimensions of Diversity](http://www.lacrosseconsortium.org/uploads/content_files/Dimensions_of_Diversity_Wheel_Expanded.pdf)
+Read more about the [Dimensions of Diversity](http://www.lacrosseconsortium.org/uploads/content_files/Dimensions_of_Diversity_Wheel_Expanded.pdf).
 
 #### 2.4 Not intentional, still harmful
 Having used sexist language does not mean that the person who used it had sexist intent. However, continuing to include sexist language, and fighting against a change away from sexist language, has sexist effects regardless of intent.
@@ -51,7 +51,6 @@ Lots of communication habits are deeply ingrained: changing the way you write or
 
 #### 2.5 Audience
 Knowing your audience is critical to ensuring that meeting room layouts, menus, and other elements of the event will allow every participant to engage fully. Make sure your registration materials and forms ask specifically about your audience's needs and accommodations. 
-
 
 ## 3. Language
 
@@ -63,7 +62,6 @@ Avoid using male pronouns ("he", "him", "his") in circumstances that describe pe
 
 #### Avoid gendered terms
 For example, avoid these words when addressing groups: Guys, Ladies & Gentlemen. Instead use: Folks, Everybody, People. More [examples of nonsexist language](http://geekfeminism.wikia.com/wiki/Nonsexist_language). 
-
 
 ## 4. Code of Conduct
 
@@ -92,7 +90,6 @@ A person or a team who is responsible for assisting with any incidents that may 
 #### 4.6 Instruct all staff
 Ensure not only the Code of Conduct ‘response team’ but the entire staff is well aware of precautions, reporting and the process set in place to ensure participants safety.
 
-
 ## 5. Venues
 Venues include the conference venue, conference social venue, speaker’s diner, networking meetup and all other venues that are part of the conference experience.
 
@@ -100,8 +97,8 @@ Overall accessibility checklist for existing facilities from ADA: [Checklist for
 
 #### 5.1 Accessible set-up of rooms
 
-* **Large amphitheater room**
-If you have presentations in amphitheater, ensure there are spaces available for a wheelchair user to "park" themselves to follow the presentation. Ensure entrances to the amphitheater aren't at the high end of the room, and if they are, that there is a low gradient ramp to be able to go down. Avoid placing the wheelchair seating area at the back of the room only.
+* **Large amphitheater room**  
+ If you have presentations in amphitheater, ensure there are spaces available for a wheelchair user to "park" themselves to follow the presentation. Ensure entrances to the amphitheater aren't at the high end of the room, and if they are, that there is a low gradient ramp to be able to go down. Avoid placing the wheelchair seating area at the back of the room only.
 
 * **Theater set-up**
   * Minimum widths for center and side aisles, and for the distance between accessible and standard rows
@@ -109,14 +106,14 @@ If you have presentations in amphitheater, ensure there are spaces available for
   * Offer multiple choices of where to sit. At a minimum set the front, back and middle rows accessible to ensure attendee choice of seats in the room.
   * See drawings in pdf: [Theater style layout](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Theater%20style%20layout.pdf) and [detailed layout](http://www.adahospitality.org/sites/default/files/documents/Final%20Detail%20view%20Acc%20Theater%20style.pdf).
 
-* **Classroom set-up**
-Same pointers, see [drawing of Accessible classroom set-up](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Classroom%20set%20up%20layout.pdf)
+* **Classroom set-up**  
+ Same pointers, see [drawing of Accessible classroom set-up](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Classroom%20set%20up%20layout.pdf)
 
-* **Round Table set-up**
+* **Round Table set-up**  
  Same pointers, see [drawing of Accessible Round Table set-up](http://www.adahospitality.org/sites/default/files/documents/Final%20Accessible%20Round%20table%20set%20up%20layout.pdf)
 
-* **Set-up of Dining Hall** 
-If you offer meals, such as lunch, plan the layout of the dining hall carefully. Ensure there is enough space between the tables (including with people seating at chairs) for a wheelchair user or someone using a guide dog to be able to navigate through. Otherwise you risk forcing people with limited mobility to sit near the doors, or be unable to reach the buffet table.
+* **Set-up of Dining Hall**  
+ If you offer meals, such as lunch, plan the layout of the dining hall carefully. Ensure there is enough space between the tables (including with people seating at chairs) for a wheelchair user or someone using a guide dog to be able to navigate through. Otherwise you risk forcing people with limited mobility to sit near the doors, or be unable to reach the buffet table.
 
 #### 5.2 Hearing impairment assisted
 
@@ -224,7 +221,7 @@ Always use the microphone; individuals may have hearing aids or may be using an 
 
 ##### Questions & Answers
 * If you ask the entire audience a question, offer several ways to respond, including raising hands, calling out, standing, nodding; this will facilitate participation for those who may not be able to raise hands, speak, or stand.
-* Following the response to an audience question, let the audience know the count or estimate, such as “about half responded yes.
+* Following the response to an audience question, let the audience know the count or estimate, such as “about half responded yes“.
 
 #### 7.2 Transport
 If you offer transportation from the airport and/or hotel to the venue, consider whether or not the shuttles are wheelchair accessible. If not, think of alternate solutions: Can you organize taxi vouchers for your speakers who are using wheelchairs? Can you rent an accessible van to organize pick up and drop off?
@@ -232,16 +229,16 @@ If you offer transportation from the airport and/or hotel to the venue, consider
 #### 7.3 Dietary needs
 Don’t forget to ask your speakers about their dietary needs and/or food allergies and intolerances. See chapter “Catering” for more information.
 
-Catering does not only include conference food, but also (if applicable) speaker’s dinner and breakfast at hotel.
+Catering does not only include conference food, but also (if applicable) speaker’s dinner and breakfast at the hotel.
 
 ## 8. Catering
-The number and variety of special diet requests has grown significantly in recent years. These needs include attendees with food allergies and intolerances, as well as those on special diets for medical, health, religious, or other reasons.
+The number and variety of special diet requests has grown significantly in recent years. These needs include attendees with food allergies and intolerances, as well as those on special diets for medical, health, religious or other reasons.
 
 #### 8.1 Dietary definitions, food allergies, and religious restrictions
 Useful document from Webster University with [definitions and descriptions](http://www.webster.edu/specialevents/planning/food-information.html).
 
 #### 8.2 Dietary requirements compliant food
-Avoid high-risk allergens, such as peanuts and shellfish. Other common foods or ingredients that can cause allergic reactions or other problems for some people include eggs, cow’s milk, wheat and gluten, fish, tree nuts, and soy.
+Avoid high-risk allergens, such as peanuts and shellfish. Other common foods or ingredients that can cause allergic reactions or other problems for some people include eggs, cow’s milk, wheat and gluten, fish, tree nuts and soy.
 
 #### 8.3 Common dietary restrictions - order plenty
 For common restrictions, e.g., vegetarianism, expect that people will eat that food even if they don’t have that restriction. Have the bulk of the food catering to the common restriction, and only a small amount of food that those attendees can’t eat. For example, if your event is 50% vegetarian, cater as if 80% of attendees are vegetarian. Then there is plenty of food for the people with the restriction and other attendees get to enjoy it as well. It is an uncommon pleasure for people with dietary restrictions to be over-catered to.
@@ -310,7 +307,7 @@ Your website should be accessible. This means that it can be used by people who 
 * Are labels associated with form inputs?
 
 #### 10.2 Schedule
-Schedules are often complex information delivered through one or several HTML data tables. Ensure that these tables are coded according to standards so assistive technologies can interact programmatically with them. This is especially true if you are running several streams in several rooms on different days.
+Schedules are often complex information delivered through one or several HTML data tables. Ensure that these tables are coded according to standards so assistive technologies can interact programmatically with them. This is especially true if you are running several tracks in several rooms on different days.
 
 #### 10.3 Accessibility Statement
 List clearly what attendees can expect (and what not to expect).
@@ -321,8 +318,8 @@ Use (stock) photos of people from underrepresented groups in professional settin
 ## 11. Staff & volunteers
 
 #### 11.1 Code of Conduct
-* Appoint a response team to assist with any incidents that may arise
-* Ensure not only the Code of Conduct committee but the entire staff is well aware of precautions, reporting and the process set in place to ensure participants safety
+* Appoint a response team to assist with any incidents that may arise.
+* Ensure not only the Code of Conduct committee but the entire staff is well aware of precautions, reporting and the process set in place to ensure participants safety.
 
 #### 11.2 Alcohol and staff
 If alcohol is served during the event, make sure there are an appropriate number of sober staff on hand to assist with any problems if they arise. Make sure to clearly identify the staff members at the beginning of the event. 
@@ -355,11 +352,14 @@ Additional benefits of subtitling video:
 
 #### 13.2 Video Captioning tools
 Find more [information and reviews of free video captioning tools](https://blog.amara.org/2018/05/02/11-free-tools-to-make-your-captioning-process-easier-in-2018/#sco). A summary of some of the findings:
-* **Google Doc Voice-typing Tool(combined with Soundflower)** - super easy to use, however, the accuracy of using microphone input might be affected by the surrounding noise. A way to get around this problem is to use Soundflower. It's about 85% accurate and supports multiple languages and accents
-* **Amara** - directly syncs your subtitles with YouTube, Vimeo, Facebook and Twitter without extra steps of download/upload (if you own the channel) and easy to use for collaborative translation after captioning. Used by TED and Udacity.
-* **YouTube Automatic Subtitles** - It’s also super easy to use. If your video is in English, they will start the auto-captioning at the time you upload your video. 
+* **Google Doc Voice-typing Tool(combined with Soundflower)**  
+ Super easy to use, however, the accuracy of using microphone input might be affected by the surrounding noise. A way to get around this problem is to use Soundflower. It's about 85% accurate and supports multiple languages and accents
+* **Amara**  
+ Directly syncs your subtitles with YouTube, Vimeo, Facebook and Twitter without extra steps of download/upload (if you own the channel) and easy to use for collaborative translation after captioning. Used by TED and Udacity.
+* **YouTube Automatic Subtitles**  
+ It’s also super easy to use. If your video is in English, they will start the auto-captioning at the time you upload your video. 
 
-**Accuracy of speech recognition**
+**Accuracy of speech recognition**  
 Speech recognition accuracy can be as high as 90% when your video has one person in a quiet location speaking clearly using simple terms. In these cases, you should still allow time for cleaning up the file because even at the high quality level of 90%, this still means one in every ten words is wrong and that can grossly impact comprehension.
 
 ## 14. Sources
