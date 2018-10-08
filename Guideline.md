@@ -93,7 +93,7 @@ A person or a team who is responsible for assisting with any incidents that may 
 Ensure not only the Code of Conduct ‘response team’ but the entire staff is well aware of precautions, reporting and the process set in place to ensure participants safety.
 
 
-## 5.Venues
+## 5. Venues
 Venues include the conference venue, conference social venue, speaker’s diner, networking meetup and all other venues that are part of the conference experience.
 
 Overall accessibility checklist for existing facilities from ADA: [Checklist for Readily Achievable Barrier Removal](http://uiaccess.com/facilities.html). Also available in [PDF](https://www.adachecklist.org/doc/fullchecklist/ada-checklist.pdf).
@@ -308,7 +308,6 @@ Your website should be accessible. This means that it can be used by people who 
 * Is the color contrast sufficient? See pointers for designing here [9.3 Color vision deficiency](#93-color-vision-deficiency)
 * Do all informative images have alternate text?
 * Are labels associated with form inputs?
-
 
 #### 10.2 Schedule
 Schedules are often complex information delivered through one or several HTML data tables. Ensure that these tables are coded according to standards so assistive technologies can interact programmatically with them. This is especially true if you are running several streams in several rooms on different days.
