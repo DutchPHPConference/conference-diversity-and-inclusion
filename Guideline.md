@@ -27,7 +27,7 @@ Diversity Doesn't Stick Without Inclusion. As the Harvard Business Review articl
 
 So, it's true that diversity and inclusion work together to affect outcomes.
 
-But understanding them as fundamentally different things is essential, because it bifurcates and clarifies the primary challenge for leaders: understanding the implication that demographic variety has on business performance, and creating an environment that invites the full spectrum of employee perspectives and maximizes them.
+But understanding them as fundamentally different things is essential, because it separates and clarifies the primary challenge for leaders: understanding the implication that demographic variety has on business performance, and creating an environment that invites the full spectrum of employee perspectives and maximizes them.
 
 #### 2.1 Combat unconscious bias
 Unconscious biases are shortcuts our brains take in processing information. We are all guilty of bias.
