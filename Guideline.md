@@ -33,7 +33,7 @@ But understanding them as fundamentally different things is essential, because i
 Unconscious biases are shortcuts our brains take in processing information. We are all guilty of bias.
 Unconscious biases are learned and deeply ingrained stereotypes about other people based on traits like gender, social class, race, and height and weight. These hidden judgments can extend to a person’s educational level, disability, sexuality, accent, social status, and job title. While unconscious biases are automatic and unintentional, they can influence behavior. 
 
-**Useful resoruces**
+**Useful resources**
 * [Unconscious Bias @ work](https://www.youtube.com/watch?v=nLjFTHTgEVU) by Dr. Brian Welle, Director of Peeple Analytics at Google
 * [Unconscious Bias In The Workplace: You Can't Afford To Ignore It](https://www.forbes.com/sites/forbescoachescouncil/2018/03/23/unconscious-bias-in-the-workplace-you-cant-afford-to-ignore-it/#1bfca5417660) by Laura Berger
 
@@ -127,7 +127,7 @@ People who are deaf or hard of hearing may require the assistance of a sign lang
 Ask if the facility has experience offering Communication Access Realtime Translation (CART) services, or if they have a local contact who can provide this service if needed.
 What is CART?  Basically someone is typing what the presenter says and the transcription is projected on a screen near the main display screen. This has the added advantage that you end up with a transcript of the presentation that you can use to create subtitles for your videos (more on that later), or simply to provide for the attendees after the presentation.
 
-For non-realtime transciption/subtitling see [13. Subtitling of videos](#13-subtitling-of-videos)
+For non-real-time transcription/subtitling see [13. Subtitling of videos](#13-subtitling-of-videos)
 
 ##### Assistive listening devices
 Find out in advance if your facility has any assistive listening systems or devices available, how the meeting room is wired and equipped for sound amplification, and if there are additional costs for accessibility equipment and associated services. 
@@ -246,14 +246,14 @@ Avoid high-risk allergens, such as peanuts and shellfish. Other common foods or 
 #### 8.3 Common dietary restrictions - order plenty
 For common restrictions, e.g., vegetarianism, expect that people will eat that food even if they don’t have that restriction. Have the bulk of the food catering to the common restriction, and only a small amount of food that those attendees can’t eat. For example, if your event is 50% vegetarian, cater as if 80% of attendees are vegetarian. Then there is plenty of food for the people with the restriction and other attendees get to enjoy it as well. It is an uncommon pleasure for people with dietary restrictions to be over-catered to.
 
-#### 8.4 Organise distribution of food
+#### 8.4 Organize distribution of food
 Develop a plan to provide attendees with food items that meet their needs.
 
 #### 8.5 Easy to handle food
 Avoid items that are difficult to cut or handle (such as lobster in shells).
 
 #### 8.6 Recommendations for Buffet meals
-* Buffet service tables should be no higher than 36 inches.
+* Buffet service tables should be no higher than 36 inches (91 cm).
 * Set plates, cups, and other service items, as well as food and beverage items, at table height, within reach of people using mobility devices and those of short stature. Avoid food set-ups with multiple tiers.
 * Set buffet tables in straight lines (avoiding patterns will reduce wait times).
 * Keep chafing dishes for hot food (also known as “chafers”) as low as possible. Avoid gel fuel heaters, since they are a frequent source of reaction for those with chemical sensitivities.
@@ -267,7 +267,7 @@ Intoxication (usually drunkenness) both genuinely lowers inhibitions and provide
 
 If you do have alcohol, make it clear to attendees that the anti-harassment policy applies to the entire event, including when alcohol is served. Additionally, make sure attendees know that/when alcohol will be available so they can prepare accordingly.
 
-At the event, make sure there are an appropriate number of sober staff on hand to assist with any problems if they arise. Make sure to clearly identify the staff members at the beginning of the event. [Read more](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/).
+At the event, make sure there are an appropriate number of sober staff on hand to assist with any problems if they arise. Make sure to clearly identify the staff members at the beginning of the event. Read more on [serving alcohol at social events](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/).
 
 ## 9. Designs & printed materials
 
@@ -275,28 +275,28 @@ At the event, make sure there are an appropriate number of sober staff on hand t
 The purpose of a name badge is to identify people easily. As such, it should be easy to read! You should use a large, easy to read font. Sans serif fonts are generally regarded as a good choice. Make the name stand out and contrast well - avoid grey on grey! A font size of 18 points or bigger if you can make it fit would make a difference.
 
 #### 9.2 Maximize legibility of print
-* Use a strong, simple font and avoid fine or ‘fancy’ fonts. Minimum font size should be 18 point.
-* Text should begin at the left margin (centered text is harder to read)
-* Narrow text columns rather than wide ones, and right margins that are ragged, not justified
-* One-and-one-half or double spacing between lines
-* Spacing between letters that is not too tight or too loose
-* Lower case letters with initial capitals rather than all capitals
+* Use a strong, simple font and avoid fine or ‘fancy’ fonts. Minimum font size should be 18 points.
+* Text should begin at the left margin (centered text is harder to read).
+* Narrow text columns rather than wide ones, and right margins that are ragged, not justified.
+* One-and-one-half or double spacing between lines.
+* Spacing between letters that is not too tight or too loose.
+* Lower case letters with initial capitals rather than all capitals.
 * Use dot leaders for tables of contents.
-* Lines of text should be no longer than six inches (anything longer than six inches will not track well for people who use magnifiers)
+* Lines of text should be no longer than 6 inches (15cm). Anything longer will not track well for people who use magnifiers.
 * Black lettering on white, non-shiny paper. The best contrast with the least glare is bold type on yellow paper (white paper can produce too much glare). If white paper needs to be used, use an off-white paper that will still give good contrast while producing less glare than white. 
-* The paper should not be larger than standard Letter (8 1/2" x 11"). 
+* The paper should not be larger than standard Letter (8 1/2" x 11") or A4 (21 x 29,7cm). 
 
 #### 9.3 Color vision deficiency
-Color vision deficiency, also known as color blindness, is the decreased ability to see color or differences in color.About 8% of people have some form of color vision deficiency. So if your running a conference for say 200 attendees, up to 16 will see your design different then intended. 
+Color vision deficiency, also known as color blindness, is the decreased ability to see color or differences in color. About 8% of people have some form of color vision deficiency. So if your running a conference for say 200 attendees, up to 16 will see your design different then intended. 
 
 **[Design pointers for better color accessibility](https://usabilla.com/blog/how-to-design-for-color-blindness/)**
 * Use both colors and symbols - don't rely on color alone and use symbols to convey the message
 * Keep it minimal - fewer colors leads to fewer instances of confusion
 * Use patterns and textures to show contrast
-* Use a range of clearly contrasting colors - there are several tests available on the web, for example [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/) where you can upload your design and the algorithms transform the iamge into the same image as seen by people with differect kinds of colour vision deficiencies (red-, green-, blue- or completely colorblind).
-* Avoid bad color combos - not nly the well-known combination of Red & Green, but also Green & Brown, Blue & Purple, Green & Blue, Light Green & Yellow, Blue & Grey, Green & Grey, Green & Black
+* Use a range of clearly contrasting colors - there are several tests available on the web, for example [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/) where you can upload your design and the algorithms transform the image into the same image as seen by people with different kinds of color vision deficiencies (red-, green-, blue- or completely colorblind).
+* Avoid bad color combos - not only the well-known combination of Red & Green, but also Green & Brown, Blue & Purple, Green & Blue, Light Green & Yellow, Blue & Grey, Green & Grey, Green & Black
 
-Read more on [Types of Colour Blindness](http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/). It shows the visual effects of color vision deficiency very well. 
+Read more on [Types of Color Blindness](http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/). It shows the visual effects of color vision deficiency very well. 
 
 ## 10. Website
 
@@ -340,8 +340,8 @@ Make sure you have a diverse team reviewing the CfP abstract as this will stimul
 
 #### 12.3 Blind review
 Use a review systems that allows for concealing the author identities from the reviewers. 
-When you use this system, it's important to not only conceal the the name of the author but also the details of additional information you may have asked on the CfP form like links to video, slides and reviews of the talk. 
-This blind review helps to combat the unconsious bias we all have, see [2.1 Combat Unconsious Bias](#21-combat-unconscious-bias)
+When you use this system, it's important to not only conceal the name of the author but also the details of additional information you may have asked on the CfP form like links to video, slides and reviews of the talk. 
+This blind review helps to combat the unconscious bias we all have, see [2.1 Combat unconscious Bias](#21-combat-unconscious-bias)
 
 Interesting [blog post](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/) by Julia Evans about how Anonymous talk reviews worked at !!Con.
 
@@ -356,11 +356,11 @@ Additional benefits of subtitling video:
 
 #### 13.2 Video Captioning tools
 Find more [information and reviews of free video captioning tools](https://blog.amara.org/2018/05/02/11-free-tools-to-make-your-captioning-process-easier-in-2018/#sco). A summary of some of the findings:
-* **Google Doc Voice-typing Tool(combined with Soundflower)** - super easy to use, howwever, the accuracy of using microphone input might be affected by the surrounding noise. A way to get around this problem is to use Soundflower. It's about 85% accurate and supports multiple languages and accents
-* **Amara** - directly syncs your subtitles with Youtube, Vimeo, Facebook and Twitter without extra steps of download/upload( If you own the channel) and easy to use for collaborative translation after captioning. Used by TED and Udacity.
-* **Youtube Automatic Subtitles** - It’s also super easy to use. If your video is in English, they will start the auto-captioning at the time you upload your video. 
+* **Google Doc Voice-typing Tool(combined with Soundflower)** - super easy to use, however, the accuracy of using microphone input might be affected by the surrounding noise. A way to get around this problem is to use Soundflower. It's about 85% accurate and supports multiple languages and accents
+* **Amara** - directly syncs your subtitles with YouTube, Vimeo, Facebook and Twitter without extra steps of download/upload (if you own the channel) and easy to use for collaborative translation after captioning. Used by TED and Udacity.
+* **YouTube Automatic Subtitles** - It’s also super easy to use. If your video is in English, they will start the auto-captioning at the time you upload your video. 
 
-**Accurracy of speech recognition**
+**Accuracy of speech recognition**
 Speech recognition accuracy can be as high as 90% when your video has one person in a quiet location speaking clearly using simple terms. In these cases, you should still allow time for cleaning up the file because even at the high quality level of 90%, this still means one in every ten words is wrong and that can grossly impact comprehension.
 
 ## 14. Sources
