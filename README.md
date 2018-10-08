@@ -2,7 +2,9 @@
 
 ## *_Diversity Doesn't Stick Without Inclusion_*
 
+## Guideline
 
+[Read the Guideline](https://github.com/DutchPHPConference/conference-diversity-and-inclusion/blob/master/Guideline.md)
 
 ## License
 
