@@ -56,13 +56,13 @@ Knowing your audience is critical to ensuring that meeting room layouts, menus, 
 ## 3. Language
 
 #### Choosing words with dignity
-What you write and what you say can enhance the dignity of people with disabilities and promote positive attitudes about their abilities. This [pdf](http://www.adahospitality.org/sites/default/files/sites/default/files/Choosing%20Words%20with%20Dignity.pdf) includes examples of Affirmative Phrases (Do use) and Negative Phrases (Don't use)
+What you write and what you say can enhance the dignity of people with disabilities and promote positive attitudes about their abilities. [Examples of Affirmative Phrases](http://www.adahospitality.org/sites/default/files/sites/default/files/Choosing%20Words%20with%20Dignity.pdf) (Do use) and Negative Phrases (Don't use).
 
 #### Avoid gendered pronouns
-Avoid using male pronouns ("he", "him", "his") in circumstances that describe people of any gender.  Find examples of nonsexist language [here](http://geekfeminism.wikia.com/wiki/Nonsexist_language) 
+Avoid using male pronouns ("he", "him", "his") in circumstances that describe people of any gender. Find [examples of nonsexist language](http://geekfeminism.wikia.com/wiki/Nonsexist_language). 
 
 #### Avoid gendered terms
-For example, avoid these words when addressing groups: Guys, Ladies & Gentlemen. Instead use: Folks, Everybody, People. More examples [here](http://geekfeminism.wikia.com/wiki/Nonsexist_language). 
+For example, avoid these words when addressing groups: Guys, Ladies & Gentlemen. Instead use: Folks, Everybody, People. More [examples of nonsexist language](http://geekfeminism.wikia.com/wiki/Nonsexist_language). 
 
 
 ## 4. Code of Conduct
@@ -84,17 +84,17 @@ This means delegates/attendees, speakers, volunteers, sponsors, exhibitors, orga
 It is important to communicate about the Code of Conduct visibly and often.
 
 #### 4.4 Contact details
-Share contact details of identifiable persons (cell phone number, email address, twitter handle, etc.)
+Share contact details of identifiable persons (cell phone number, e-mail address, twitter handle, etc.)
 
 #### 4.5 Code of Conduct guardians / response team
-A person or a team who is responsible for assisting with any incidents that may arise
+A person or a team who is responsible for assisting with any incidents that may arise.
 
 #### 4.6 Instruct all staff
-Ensure not only the Code of Conduct ‘response team’ but the entire staff is well aware of precautions, reporting and the process set in place to ensure participants safety
+Ensure not only the Code of Conduct ‘response team’ but the entire staff is well aware of precautions, reporting and the process set in place to ensure participants safety.
 
 
 ## 5.Venues
-Venues include the  conference venue, conference social venue, speaker’s diner, networking meetup and all other venues part of the conference experience.
+Venues include the conference venue, conference social venue, speaker’s diner, networking meetup and all other venues that are part of the conference experience.
 
 Overall accessibility checklist for existing facilities from ADA: [Checklist for Readily Achievable Barrier Removal](http://uiaccess.com/facilities.html). Also available in [PDF](https://www.adachecklist.org/doc/fullchecklist/ada-checklist.pdf).
 
@@ -127,7 +127,7 @@ People who are deaf or hard of hearing may require the assistance of a sign lang
 Ask if the facility has experience offering Communication Access Realtime Translation (CART) services, or if they have a local contact who can provide this service if needed.
 What is CART?  Basically someone is typing what the presenter says and the transcription is projected on a screen near the main display screen. This has the added advantage that you end up with a transcript of the presentation that you can use to create subtitles for your videos (more on that later), or simply to provide for the attendees after the presentation.
 
-For non-realtime transciption/subtitling see [13. Subtitling of video's](#13-subtitling-of-videos)
+For non-realtime transciption/subtitling see [13. Subtitling of videos](#13-subtitling-of-videos)
 
 ##### Assistive listening devices
 Find out in advance if your facility has any assistive listening systems or devices available, how the meeting room is wired and equipped for sound amplification, and if there are additional costs for accessibility equipment and associated services. 
@@ -146,7 +146,7 @@ Service animals may need space similar to mobility devices (plan for two seating
 Point out in your materials any places that can be used as “relief areas” for service animals. 
 
 #### 5.5 Gender neutral restrooms
-A gender neutral restroom is important for attendees who do not feel comfortable choosing between binary-gendered restrooms
+A gender neutral restroom is important for attendees who do not feel comfortable choosing between binary-gendered restrooms.
 
 #### 5.6 Childcare
 Conference childcare allows parents and guardians to attend your event and more fully participate than they would be able to if they had to primarily care for a child. 
@@ -172,9 +172,6 @@ Accessible bathrooms should be in near proximity, but sometimes accessible bathr
 * Hallways should be wide and clear of obstructions. This will help mobility for wheelchair users.
 * Registration desk - if it is a high surface, offer an alternative location for wheelchair users or people of short stature to be able to interact with staff.
 
-
-
-
 ## 6. Attendees
 
 #### 6.1 Outlining what to expect
@@ -191,7 +188,7 @@ Collect information about your attendee’s dietary needs during the registratio
 #### 6.3 Service animals
 Service animals may need space similar to mobility devices (plan for two seating spaces for each person bringing a service animal).
 
-Point out in your materials any places that can be used as “relief areas” for service animals 
+Point out in your materials any places that can be used as “relief areas” for service animals. 
 
 #### 6.4 Transport & parking
 
@@ -204,7 +201,6 @@ You can offer an unlimited set of “Diversity Tickets” that can be purchased 
 
 #### 6.7 Subsidized Student Tickets
 You can offer students a major discount to attend a single event.
-
 
 ## 7. Speakers
 
@@ -237,7 +233,6 @@ If you offer transportation from the airport and/or hotel to the venue, consider
 Don’t forget to ask your speakers about their dietary needs and/or food allergies and intolerances. See chapter “Catering” for more information.
 
 Catering does not only include conference food, but also (if applicable) speaker’s dinner and breakfast at hotel.
-
 
 ## 8. Catering
 The number and variety of special diet requests has grown significantly in recent years. These needs include attendees with food allergies and intolerances, as well as those on special diets for medical, health, religious, or other reasons.
@@ -273,7 +268,6 @@ Intoxication (usually drunkenness) both genuinely lowers inhibitions and provide
 If you do have alcohol, make it clear to attendees that the anti-harassment policy applies to the entire event, including when alcohol is served. Additionally, make sure attendees know that/when alcohol will be available so they can prepare accordingly.
 
 At the event, make sure there are an appropriate number of sober staff on hand to assist with any problems if they arise. Make sure to clearly identify the staff members at the beginning of the event. [Read more](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/).
-
 
 ## 9. Designs & printed materials
 
@@ -320,7 +314,7 @@ Your website should be accessible. This means that it can be used by people who 
 Schedules are often complex information delivered through one or several HTML data tables. Ensure that these tables are coded according to standards so assistive technologies can interact programmatically with them. This is especially true if you are running several streams in several rooms on different days.
 
 #### 10.3 Accessibility Statement
-List clearly what attendees can expect (and what not to expect)
+List clearly what attendees can expect (and what not to expect).
 
 #### 10.4 Images and photos
 Use (stock) photos of people from underrepresented groups in professional settings. Showing only white males reinforces the stereotypes.
@@ -333,7 +327,6 @@ Use (stock) photos of people from underrepresented groups in professional settin
 
 #### 11.2 Alcohol and staff
 If alcohol is served during the event, make sure there are an appropriate number of sober staff on hand to assist with any problems if they arise. Make sure to clearly identify the staff members at the beginning of the event. 
-
 
 ## 12.  Call for Papers
 
@@ -352,7 +345,7 @@ This blind review helps to combat the unconsious bias we all have, see [2.1 Comb
 
 Interesting [blog post](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/) by Julia Evans about how Anonymous talk reviews worked at !!Con.
 
-## 13. Subtitling of video's
+## 13. Subtitling of videos
 
 #### 13.1 Why you should care
 For people with hearing impairments, captions are the only way to enjoy, and benefit from, the video content. Even for those able to lipread, a large chunk of video content features people speaking off camera, or sound overlay over images or other visuals.
@@ -362,7 +355,7 @@ Additional benefits of subtitling video:
 * about 65% of people are visual learners
 
 #### 13.2 Video Captioning tools
-You can find a review of free tools [here](https://blog.amara.org/2018/05/02/11-free-tools-to-make-your-captioning-process-easier-in-2018/#sco). A summary of some of the findings:
+Find more [information and reviews of free video captioning tools](https://blog.amara.org/2018/05/02/11-free-tools-to-make-your-captioning-process-easier-in-2018/#sco). A summary of some of the findings:
 * **Google Doc Voice-typing Tool(combined with Soundflower)** - super easy to use, howwever, the accuracy of using microphone input might be affected by the surrounding noise. A way to get around this problem is to use Soundflower. It's about 85% accurate and supports multiple languages and accents
 * **Amara** - directly syncs your subtitles with Youtube, Vimeo, Facebook and Twitter without extra steps of download/upload( If you own the channel) and easy to use for collaborative translation after captioning. Used by TED and Udacity.
 * **Youtube Automatic Subtitles** - It’s also super easy to use. If your video is in English, they will start the auto-captioning at the time you upload your video. 
@@ -372,7 +365,7 @@ Speech recognition accuracy can be as high as 90% when your video has one person
 
 ## 14. Sources
 
-* [How to make your conference accessible  – and why you should care!](https://incl.ca/how-to-make-your-conference-accessible-and-why-you-should-care/) - Nicolas Steenhout
+* [How to make your conference accessible  – and why you should care!](https://incl.ca/how-to-make-your-conference-accessible-and-why-you-should-care/) - [Nicolas Steenhout](https://twitter.com/vavroom)
 * [Accessible Meetings, events & conferences Guide](http://www.adahospitality.org/accessible-meetings-events-conferences-guide) - ADA Hospitality
 * [Inclusion has to be proactive](https://medium.com/@fox/inclusion-has-to-be-proactive-b01a37f85148) - Karolina Szczur
 * [Example accessibility statement](https://2018.cssconf.com.au/accessibility) - CSSConf AU 2018
@@ -382,7 +375,3 @@ Speech recognition accuracy can be as high as 90% when your video has one person
 * [When a Code of Conduct becomes harmful](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa) - Karolina Szczur
 * [How to design for color Blindness](https://usabilla.com/blog/how-to-design-for-color-blindness/) - Robyn Collinge
 * [The Importance of Subtitling: Accessibility for All](https://blog.amara.org/2018/04/24/the-importance-of-subtitling-accessibility-for-all/) - Amara Subtitling Blog
-
-
-
-
