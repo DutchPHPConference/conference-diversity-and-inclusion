@@ -330,17 +330,21 @@ Use (stock) photos of people from underrepresented groups in professional settin
 #### 11.2 Alcohol and staff
 If alcohol is served during the event, make sure there are an appropriate number of sober staff on hand to assist with any problems if they arise. Make sure to clearly identify the staff members at the beginning of the event. 
 
-## 12.  Call for Papers
+## 12.  Call for Papers & Speaker selection
 
-#### 12.1 Proactively reach out to underrepresented groups
+#### 12.1 Conference Diversity Distribution
+We sometimes hear (and maybe use) the argument that speaker line-ups that fail to adequately represent women are not the product of systemic discrimination, but rather an inevitably frequent occurrence in an industry as male-dominated as ours. On the face of it, this makes intuitive sense. 
+As human beings are notoriously bad with probabilities, it's safer to use this [Conference Diversity Distribution Calculator](http://aanandprasad.com/diversity-calculator/?groupName=women&numSpeakers=50&populationPercentage=10). It shows that in an unbiased selection, you’re significantly more likely to see more than the expected number of women than none at all. 
+
+#### 12.2 Proactively reach out to underrepresented groups
 
 * [Fempire: a list of women tech speakers & organizers](https://github.com/fempire/women-tech-speakers-organizers) 
 * [1,000 Tech and Science Speakers Who Aren't Cis Men](https://docs.google.com/spreadsheets/d/1opOWf8lMYOvBk6ou0RBlAt5jfyGvEbTZ1f_wxDs8Lno/edit#gid=0)
 
-#### 12.2 Call for paper Review team
+#### 12.3 Call for paper Review team
 Make sure you have a diverse team reviewing the CfP abstract as this will stimulate a more diverse selection of talks.
 
-#### 12.3 Blind review
+#### 12.4 Blind review
 Use a review systems that allows for concealing the author identities from the reviewers. 
 When you use this system, it's important to not only conceal the name of the author but also the details of additional information you may have asked on the CfP form like links to video, slides and reviews of the talk. 
 This blind review helps to combat the unconscious bias we all have, see [2.1 Combat unconscious Bias](#21-combat-unconscious-bias)
