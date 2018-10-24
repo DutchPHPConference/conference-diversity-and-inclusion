@@ -179,24 +179,27 @@ Outlining what to expect becomes crucial to welcoming anyone with hearing, sight
 * Accompanied by service animal or personal assistant 
 * Dietary restrictions / Food allergies/intolerances
 
-#### 6.2 Dietary Requirements
+#### 6.2 Registration: ask what is needed to fully participate
+In addition to a check-box (where you can ask “What do you need to fully participate?”), leave a space to write-in preferences and sensitivities including food allergies, chemical sensitivities. Follow-up to clarify individual needs and advise how they will be accommodated. 
+
+#### 6.3 Dietary Requirements
 Collect information about your attendee’s dietary needs during the registration process. It’s the responsibility of attendees to notify you of their needs in advance so you can make appropriate plans. More information on Dietary requirements in Chapter Catering.
 
-#### 6.3 Service animals
+#### 6.4 Service animals
 Service animals may need space similar to mobility devices (plan for two seating spaces for each person bringing a service animal).
 
 Point out in your materials any places that can be used as “relief areas” for service animals. 
 
-#### 6.4 Transport & parking
+#### 6.5 Transport & parking
 
 
-#### 6.5 Scholarship program
+#### 6.6 Scholarship program
 A fixed amount of free tickets could be given out to individuals from underrepresented groups, who couldn’t attend otherwise.
 
-#### 6.6 Purchasable Diversity Supporter Tickets
+#### 6.7 Purchasable Diversity Supporter Tickets
 You can offer an unlimited set of “Diversity Tickets” that can be purchased by anyone and donated to the Scholarship Program pool.
 
-#### 6.7 Subsidized Student Tickets
+#### 6.8 Subsidized Student Tickets
 You can offer students a major discount to attend a single event.
 
 ## 7. Speakers
@@ -382,3 +385,4 @@ Remember it can take more time to navigate a venue with a mobility device, espec
 * [When a Code of Conduct becomes harmful](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa) - Karolina Szczur
 * [How to design for color Blindness](https://usabilla.com/blog/how-to-design-for-color-blindness/) - Robyn Collinge
 * [The Importance of Subtitling: Accessibility for All](https://blog.amara.org/2018/04/24/the-importance-of-subtitling-accessibility-for-all/) - Amara Subtitling Blog
+* [20 Tips for a More Accessible Event](https://www.eventmanagerblog.com/accessible-event) - Shawna McKinley
