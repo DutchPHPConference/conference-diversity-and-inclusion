@@ -150,7 +150,7 @@ Conference childcare allows parents and guardians to attend your event and more 
 Interesting read: [Helpful thoughts for Conference Organizers](https://medium.com/leaky-abstractions/conference-childcare-part-1-helpful-thoughts-for-conference-organizers-203d2b34df5b)
 
 #### 5.7 Baby Care/ nursing Room
-Room containing baby changing bench and other baby facilities (like microwave to heat food).
+A room containing baby changing bench and other baby facilities (like microwave to heat food).
 
 #### 5.8 Quiet Room
 A quiet room is a comfortable room where talking and other interactions with other attendees aren’t allowed.
