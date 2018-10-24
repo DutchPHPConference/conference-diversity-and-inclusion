@@ -365,7 +365,12 @@ Find more [information and reviews of free video captioning tools](https://blog.
 **Accuracy of speech recognition**  
 Speech recognition accuracy can be as high as 90% when your video has one person in a quiet location speaking clearly using simple terms. In these cases, you should still allow time for cleaning up the file because even at the high quality level of 90%, this still means one in every ten words is wrong and that can grossly impact comprehension.
 
-## 14. Sources
+## 14. Program
+
+**Provide sufficient time between talks, events etc.** 
+Remember it can take more time to navigate a venue with a mobility device, especially if it is crowded. So consider the suitable time between talks/events for your conference. 
+
+## 15. Sources
 
 * [How to make your conference accessible  – and why you should care!](https://incl.ca/how-to-make-your-conference-accessible-and-why-you-should-care/) - [Nicolas Steenhout](https://twitter.com/vavroom)
 * [Accessible Meetings, events & conferences Guide](http://www.adahospitality.org/accessible-meetings-events-conferences-guide) - ADA Hospitality
