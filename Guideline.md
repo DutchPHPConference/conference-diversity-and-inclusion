@@ -213,7 +213,7 @@ Speakers can help making the conference more accessible by adhering to a few acc
 * Use a PowerPoint theme to structure your presentation, with only short sentences and/or bulleted phrases (about 4 lines of text/40 words per slide).
 * Avoid using epilepsy-inducing videos and animations
 
-Detailed information can be found in the article [Best practices for making PowerPoint presentations accessible( Best practices for making PowerPoint presentations accessible).
+Detailed information can be found in the article [Best practices for making PowerPoint presentations accessible](https://support.office.com/en-us/article/make-your-powerpoint-presentations-accessible-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-US&rs=en-US&ad=US#PickTab=macOS).
 
 
 ##### Laser pointer
