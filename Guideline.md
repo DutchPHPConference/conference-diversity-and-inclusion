@@ -193,8 +193,9 @@ Point out in your materials any places that can be used as “relief areas” fo
 #### 6.5 Transport & parking
 
 
-#### 6.6 Scholarship program
-A fixed amount of free tickets could be given out to individuals from underrepresented groups, who couldn’t attend otherwise.
+#### 6.6 Scholarship program (Diveristy tickets)
+A fixed amount of free tickets could be given out to individuals from underrepresented groups, who couldn’t attend otherwise. 
+If you do, consider using [diversitytickets.org](https://diversitytickets.org/en). Diversitytickets.org is a Travis Foundation which helps conference organisers reach out to minority groups. You can add your event/conference, specify the number of free tickers and once the event is approved, it becomes publicly listed on the website and applicants can apply for it.
 
 #### 6.7 Purchasable Diversity Supporter Tickets
 You can offer an unlimited set of “Diversity Tickets” that can be purchased by anyone and donated to the Scholarship Program pool.
