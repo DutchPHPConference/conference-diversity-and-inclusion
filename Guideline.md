@@ -3,6 +3,10 @@
 
 > *_"Diversity Doesn't Stick Without Inclusion”_*
 
+## Introduction
+The purpose of this document is to create a comprehensive overview of things that can help make your conference or event more accessible to everyone, and under-represented groups in particular. It is not meant as a list of requirements for every conference or event. 
+Please read it carefully and you may be surprised about the many things you can do without spending money. Also consider it not “all or nothing”, taking steps that fit your budget is better than not do anything at all.
+
 
 ## 1. Definitions
 
