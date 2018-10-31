@@ -394,7 +394,7 @@ Here are some concrete ideas to finance diversity and inclusion efforts at your 
 
 * Bring costs down by asking for volunteers
     * Maybe someone knows sign language in your community?
-    * Maybe a significant that is not in IT is willing to help out in the children nursery to assist a professional care taker? 
+    * Maybe a significant other who is not in IT is willing to help out in the nursery to assist a professional carer? 
 * Setup specific sponsor packages
 * Allow attendees to optionally donate when buying their ticket
     * Potentially give them a small token of appreciation like a button, a free drink ticket at the conference party ..
