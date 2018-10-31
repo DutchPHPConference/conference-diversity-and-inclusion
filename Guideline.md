@@ -388,16 +388,17 @@ Some of the things suggested here cost money: some more, some less. These costs 
 
 Low conference ticket prices are an important factor to enable inclusion, so simply increasing ticket prices to enable a child day care may not be in the best interests of inclusion efforts. 
 
-Also note once again, its ok to initially focus on the topics that do not cost money and then later take the next steps.
+Also note once again, it's ok to initially focus on the topics that do not cost money and then later take the next steps.
 
 Here are some concrete ideas to finance diversity and inclusion efforts at your conference:
 
 * Bring costs down by asking for volunteers
     * Maybe someone knows sign language in your community?
-    * Maybe a significant other who is not in IT is willing to help out in the nursery to assist a professional carer? 
+    * Maybe volunteers are willing to help staff registration to help with handing out pens so people can write in their names on their badges as well as handout and explain pronoun buttons? 
+    * ..
 * Set up specific sponsor packages
 * Allow attendees to optionally donate when buying their ticket
-    * Potentially give them a small token of appreciation like a button, a free drink ticket at the conference party ..
+    * Potentially give them a small token of appreciation like a button, a free drink ticket at the conference party ...
 * Set up an (all year) sponsor fund to collect donations
     * [opencollective.com](https://opencollective.com)
     * [sfconservancy.org](https://sfconservancy.org)
@@ -405,9 +406,9 @@ Here are some concrete ideas to finance diversity and inclusion efforts at your 
 A slightly more out of the box approach could be to save money that usually goes towards speakers. Some of the suggestions can have the bonus effect at getting more people involved in speaking in public which is also great for diversity. Also keep in mind that while conferences are traditionally very focused on having speakers share their knowledge, a very significant (if not even the most significant) aspect of conferences is networking.
 
 * Focus more on regional speakers to reduce travel costs
-* Allow for more user generated content by providing an unconference track with lightning talks (which can even just be about “what do I do at work”)
+* Allow for more user generated content by providing an un-conference track. The focus of these talks is about connecting people working on similar topics, so a talk about “what do I do at work” is totally fine and can be a great stepping stone towards a future talk on a more specific topic.
 
-For further reading please look at [this post](https://www.patreon.com/posts/inclusive-events-19148031) by Karolina  Szczur.
+For further reading please look at [this post](https://www.patreon.com/posts/inclusive-events-19148031) by Karolina Szczur.
 
 ## 16. Sources
 
