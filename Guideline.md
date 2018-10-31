@@ -77,7 +77,9 @@ A few aspects of an enforceable Code of Conduct are:
 * Organizer contact information 
 * Emergency numbers and addresses within the vicinity of the venue 
 
-More information about Code of Conducts here and here.
+More information about Code of Conducts: 
+* [How to write a great code of conduct](https://medium.com/uplifttogether/how-to-write-a-great-code-of-conduct-2d32448c96a)
+* [When a Code of Conduct becomes harmful](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa)
 
 #### 4.2 Applicable to all people present at the event
 This means delegates/attendees, speakers, volunteers, sponsors, exhibitors, organizers and venue-staff.
