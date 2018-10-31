@@ -91,6 +91,10 @@ Share contact details of identifiable persons (cell phone number, e-mail address
 #### 4.5 Code of Conduct guardians / response team
 A person or a team who is responsible for assisting with any incidents that may arise.
 
+There are coaches that can provide professional training for incident response handling
+* [Otter tech](https://otter.technology/code-of-conduct-training/)
+* [Frameshift Consulting](https://frameshiftconsulting.com/code-of-conduct-training/)
+
 #### 4.6 Instruct all staff
 Ensure not only the Code of Conduct ‘response team’ but the entire staff is well aware of precautions, reporting and the process set in place to ensure participants safety.
 
