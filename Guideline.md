@@ -5,7 +5,7 @@
 
 ## Introduction
 The purpose of this document is to create a comprehensive overview of things that can help make your conference or event more accessible to everyone, and under-represented groups in particular. It is not meant as a list of requirements for every conference or event. 
-Please read it carefully and you may be surprised about the many things you can do without spending money. Also consider it not “all or nothing”, taking steps that fit your budget is better than not do anything at all.
+Please read it carefully and you may be surprised about the many things you can do without spending money (for more on the topic see the section "Financial considerations"). Also consider it not “all or nothing”, taking steps that fit your budget is better than not do anything at all.
 
 
 ## 1. Definitions
@@ -382,7 +382,34 @@ Speech recognition accuracy can be as high as 90% when your video has one person
 **Provide sufficient time between talks, events etc.** 
 Remember it can take more time to navigate a venue with a mobility device, especially if it is crowded. So consider the suitable time between talks/events for your conference. 
 
-## 15. Sources
+## 15. Financial considerations
+
+Some of the things suggested here cost money: some more, some less. These costs may seem prohibitively high given the tight budget of conferences.
+
+Low conference ticket prices are an important factor to enable inclusion, so simply increasing ticket prices to enable a child day care may not be in the best interests of inclusion efforts. 
+
+Also note once again, its ok to initially focus on the topics that do not cost money and then later take the next steps.
+
+Here are some concrete ideas to finance diversity and inclusion efforts at your conference:
+
+* Bring costs down by asking for volunteers
+    * Maybe someone knows sign language in your community?
+    * Maybe a significant that is not in IT is willing to help out in the children nursery to assist a professional care taker? 
+* Setup specific sponsor packages
+* Allow attendees to optionally donate when buying their ticket
+    * Potentially give them a small token of appreciation like a button, a free drink ticket at the conference party ..
+* Setup an (all year) sponsor fund to collect donations
+    * [opencollective.com](https://opencollective.com)
+    * [sfconservancy.org](https://sfconservancy.org)
+
+A slightly more out of the box approach could be to save money that usually goes towards speakers. Some of the suggestions can have the bonus effect at getting more people involved in speaking in public which is also great for diversity. Also keep in mind that while conferences are traditionally very focused on having speakers share their knowledge, a very significant (if not even the most significant) aspect of conferences is networking.
+
+* Focus more on regional speakers to reduce travel costs
+* Allow for more user generated content by providing an unconference track with lightning talks (which can even just be about “what do I do at work”)
+
+For further reading please look at [this post](https://www.patreon.com/posts/inclusive-events-19148031) by Karolina  Szczur.
+
+## 16. Sources
 
 * [How to make your conference accessible  – and why you should care!](https://incl.ca/how-to-make-your-conference-accessible-and-why-you-should-care/) - [Nicolas Steenhout](https://twitter.com/vavroom)
 * [Accessible Meetings, events & conferences Guide](http://www.adahospitality.org/accessible-meetings-events-conferences-guide) - ADA Hospitality
