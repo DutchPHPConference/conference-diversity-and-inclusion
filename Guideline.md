@@ -398,7 +398,7 @@ Here are some concrete ideas to finance diversity and inclusion efforts at your 
 * Set up specific sponsor packages
 * Allow attendees to optionally donate when buying their ticket
     * Potentially give them a small token of appreciation like a button, a free drink ticket at the conference party ..
-* Setup an (all year) sponsor fund to collect donations
+* Set up an (all year) sponsor fund to collect donations
     * [opencollective.com](https://opencollective.com)
     * [sfconservancy.org](https://sfconservancy.org)
 
