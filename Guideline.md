@@ -62,7 +62,11 @@ Knowing your audience is critical to ensuring that meeting room layouts, menus, 
 What you write and what you say can enhance the dignity of people with disabilities and promote positive attitudes about their abilities. [Examples of Affirmative Phrases](http://www.adahospitality.org/sites/default/files/sites/default/files/Choosing%20Words%20with%20Dignity.pdf) (Do use) and Negative Phrases (Don't use).
 
 #### Avoid gendered pronouns
-Avoid using male pronouns ("he", "him", "his") in circumstances that describe people of any gender. Find [examples of nonsexist language](http://geekfeminism.wikia.com/wiki/Nonsexist_language). 
+Avoid using male pronouns ("he", "him", "his") as a collective term in circumstances that describe people of any, or multiple, genders. Find [examples of nonsexist language](http://geekfeminism.wikia.com/wiki/Nonsexist_language).
+
+When talking to or about an individual, again avoid the use of gendered pronouns - use gender-neutral pronouns ("they", "them", "their") wherever possible. If a person has directly made clear what pronouns should be used, e.g. by directly stating (verbally or written) or displaying pronoun badges, respectfully use those pronouns. Do not assume people's pronouns from their presentation or your perception of them.
+
+It is always better to use gender-neutral pronouns than to accidentally use the wrong pronouns i.e. to "misgender" someone.
 
 #### Avoid gendered terms
 For example, avoid these words when addressing groups: Guys, Ladies & Gentlemen. Instead use: Folks, Everybody, People. More [examples of nonsexist language](http://geekfeminism.wikia.com/wiki/Nonsexist_language). 
