@@ -281,7 +281,7 @@ At the event, make sure there are an appropriate number of sober staff on hand t
 #### 9.1 Name badges
 The purpose of a name badge is to identify people easily. As such, it should be easy to read! You should use a large, easy to read font. Sans serif fonts are generally regarded as a good choice. Make the name stand out and contrast well - avoid grey on grey! A font size of 18 points or bigger if you can make it fit would make a difference.
 
-Consider allowing people to define or even write in their preferred name, rather than simply printing their legal name and do not require photo ID but rather use a QR code send by e-mail to allow people to identify themselves. In order to normalise the use of preferred pronouns, names and pronouns should be on the same item to prevent people who "disagree" with needing to specify pronouns from ignoring and not using such things when they are offered. Alternatively consider providing [provide premade buttons/stickers](http://yupgup.com/pronouns.html).
+Consider allowing people to define or even write in their preferred name, rather than simply printing their legal name and do not require photo ID but rather use a QR code send by e-mail to allow people to identify themselves. In order to normalize the use of preferred pronouns, names and pronouns should be on the same item to prevent people who "disagree" with needing to specify pronouns from ignoring and not using such things when they are offered. Alternatively consider providing [pre-made buttons/stickers](http://yupgup.com/pronouns.html) if this isn't possible.
 
 It may make sense to provide stickers for people to denote things like "first time attendee", "ask me about [ - space to write in- ]", "talk to me" to foster more interaction between attendees.
 
