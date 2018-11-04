@@ -61,6 +61,8 @@ Knowing your audience is critical to ensuring that meeting room layouts, menus, 
 #### Choosing words with dignity
 What you write and what you say can enhance the dignity of people with disabilities and promote positive attitudes about their abilities. [Examples of Affirmative Phrases](http://www.adahospitality.org/sites/default/files/sites/default/files/Choosing%20Words%20with%20Dignity.pdf) (Do use) and Negative Phrases (Don't use).
 
+Another useful list of words to avoid is [here](https://css-tricks.com/words-avoid-educational-writing/) and [here](https://twitter.com/dbu/status/1056975201186037762).
+
 #### Avoid gendered pronouns
 Avoid using male pronouns ("he", "him", "his") as a collective term in circumstances that describe people of any, or multiple, genders. Find [examples of nonsexist language](http://geekfeminism.wikia.com/wiki/Nonsexist_language).
 
