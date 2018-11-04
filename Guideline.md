@@ -206,7 +206,6 @@ Point out in your materials any places that can be used as “relief areas” fo
 
 #### 6.5 Transport & parking
 
-
 #### 6.6 Scholarship program (Diveristy tickets)
 A fixed amount of free tickets could be given out to individuals from underrepresented groups, who couldn’t attend otherwise. 
 If you do, consider using [diversitytickets.org](https://diversitytickets.org/en). Diversitytickets.org is a Travis Foundation which helps conference organisers reach out to minority groups. You can add your event/conference, specify the number of free tickers and once the event is approved, it becomes publicly listed on the website and applicants can apply for it.
@@ -291,6 +290,12 @@ At the event, make sure there are an appropriate number of sober staff on hand t
 
 #### 9.1 Name badges
 The purpose of a name badge is to identify people easily. As such, it should be easy to read! You should use a large, easy to read font. Sans serif fonts are generally regarded as a good choice. Make the name stand out and contrast well - avoid grey on grey! A font size of 18 points or bigger if you can make it fit would make a difference.
+
+Consider allowing people to define or even write in their preferred name, rather than simply printing their legal name and do not require photo ID but rather use a QR code send by e-mail to allow people to identify themselves. In order to normalize the use of preferred pronouns, names and pronouns should be on the same item to prevent people who "disagree" with needing to specify pronouns from ignoring and not using such things when they are offered. Alternatively consider providing [pre-made buttons/stickers](http://yupgup.com/pronouns.html) if this isn't possible.
+
+It may make sense to provide stickers for people to denote things like "first time attendee", "ask me about [ - space to write in- ]", "talk to me" to foster more interaction between attendees.
+
+Providing stickers or different lanyards (colors and patterns) to enable people to choose if they want photos taken of themselves and how these may be used. For inspiration see [here](https://twitter.com/imeluny/status/956072960296673280?lang=en). Make sure that these identifying features are large enough to be seen post-event while processing photos for publication.
 
 #### 9.2 Maximize legibility of print
 * Use a strong, simple font and avoid fine or ‘fancy’ fonts. Minimum font size should be 18 points.
