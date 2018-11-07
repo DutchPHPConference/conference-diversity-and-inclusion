@@ -412,7 +412,6 @@ Here are some concrete ideas to finance diversity and inclusion efforts at your 
 * Bring costs down by asking for volunteers
     * Maybe someone knows sign language in your community?
     * Maybe volunteers are willing to help staff registration to help with handing out pens so people can write in their names on their badges as well as handout and explain pronoun buttons? 
-    * ..
 * Set up specific sponsor packages
 * Allow attendees to optionally donate when buying their ticket
     * Potentially give them a small token of appreciation like a button, a free drink ticket at the conference party ...
