@@ -5,7 +5,7 @@
 
 ## Introduction
 The purpose of this document is to create a comprehensive overview of things that can help make your conference or event more accessible to everyone, and under-represented groups in particular. It is not meant as a list of requirements for every conference or event. 
-Please read it carefully and you may be surprised about the many things you can do without spending money (for more on the topic see the section [Financial considerations](#15financial-considerations). Also don't consider it “all or nothing”, taking steps that fit your budget is better than not doing anything at all.
+Please read it carefully and you may be surprised about the many things you can do without spending money (for more on the topic see the section [Financial considerations](#15-financial-considerations). Also don't consider it “all or nothing”, taking steps that fit your budget is better than not doing anything at all.
 
 
 ## 1. Definitions
