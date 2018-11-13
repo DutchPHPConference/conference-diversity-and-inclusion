@@ -362,6 +362,7 @@ As human beings are notoriously bad with probabilities, it's safer to use this [
 
 * [Fempire: a list of women tech speakers & organizers](https://github.com/fempire/women-tech-speakers-organizers) 
 * [1,000 Tech and Science Speakers Who Aren't Cis Men](https://docs.google.com/spreadsheets/d/1opOWf8lMYOvBk6ou0RBlAt5jfyGvEbTZ1f_wxDs8Lno/edit#gid=0)
+* [WomenTalkTech community](https://www.womentalktech.org)
 
 #### 12.3 Call for paper Review team
 Make sure you have a diverse team reviewing the CfP abstract as this will stimulate a more diverse selection of talks.
