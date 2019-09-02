@@ -373,9 +373,11 @@ When you use this system, it's important to not only conceal the name of the aut
 This blind review helps to combat the unconscious bias we all have, see [2.1 Combat unconscious Bias](#21-combat-unconscious-bias)
 
 #### 12.5 Further reading
-Interesting [blog post](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/) by Julia Evans about how Anonymous talk reviews worked at !!Con.
+* Interesting [blog post](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/) by Julia Evans about how Anonymous talk reviews worked at !!Con.
 
-Interesting article by Shira Shamban, sharing her experience of running CFPs aiming to increase participation of women and other minorities as speakers: [How to run an inclusive CFP and have a more diverse line-up of speakers?](https://www.linkedin.com/pulse/how-run-inclusive-cfp-have-more-diverse-line-up-speakers-shamban/)
+* Interesting article by Shira Shamban, sharing her experience of running CFPs aiming to increase participation of women and other minorities as speakers: [How to run an inclusive CFP and have a more diverse line-up of speakers?](https://www.linkedin.com/pulse/how-run-inclusive-cfp-have-more-diverse-line-up-speakers-shamban/)
+
+* powerful article by Karl L. Hughes about the lack of diversity in speaker line-up and why Conference Organizers have to help fix this. [On Diversity in Conference Speakers](https://www.karllhughes.com/posts/diversity-in-conference-speakers). The article explores the problem and presents solutions. 
 
 ## 13. Subtitling of videos
 
