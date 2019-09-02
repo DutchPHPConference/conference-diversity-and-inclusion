@@ -374,6 +374,8 @@ This blind review helps to combat the unconscious bias we all have, see [2.1 Com
 
 Interesting [blog post](https://jvns.ca/blog/2014/05/28/anonymous-talk-submission-equals-amazing/) by Julia Evans about how Anonymous talk reviews worked at !!Con.
 
+Interesting article by Shira Shamban, sharing her experience of running CFPs aiming to increase participation of women and other minorities as speakers: [How to run an inclusive CFP and have a more diverse line-up of speakers?](https://www.linkedin.com/pulse/how-run-inclusive-cfp-have-more-diverse-line-up-speakers-shamban/)
+
 ## 13. Subtitling of videos
 
 #### 13.1 Why you should care
