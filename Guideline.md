@@ -50,7 +50,7 @@ We can’t expect underrepresented individuals to show up when their daily lives
 
 Often, diversity efforts are focused solely on gender (concentrating on including white women, to be specific). While it’s reasonable to start somewhere, diversity and inclusion are nowhere near one dimensional.
 
-Read more about the [Dimensions of Diversity](http://www.lacrosseconsortium.org/uploads/content_files/Dimensions_of_Diversity_Wheel_Expanded.pdf).
+Read more about the [Dimensions of Diversity](https://researchguides.austincc.edu/DimensionsOfDiversity/introduction).
 
 #### 2.4 Not intentional, still harmful
 
@@ -71,11 +71,15 @@ Another useful list of words to avoid is [here](https://css-tricks.com/words-avo
 
 #### 3.2 Avoid gendered pronouns
 
-Avoid using male pronouns ("he", "him", "his") as a collective term in circumstances that describe people of any, or multiple, genders. Find [examples of nonsexist language](http://geekfeminism.wikia.com/wiki/Nonsexist_language).
+Avoid using male pronouns ("he", "him", "his") as a collective term in circumstances that describe people of any, or multiple, genders.
 
 When talking to or about an individual, again avoid the use of gendered pronouns - use gender-neutral pronouns ("they", "them", "their") wherever possible. If a person has directly made clear what pronouns should be used, e.g. by directly stating (verbally or written) or displaying pronoun badges, respectfully use those pronouns. Do not assume people's pronouns from their presentation or your perception of them.
 
 It is always better to use gender-neutral pronouns than to accidentally use the wrong pronouns i.e. to "misgender" someone.
+
+More resources containing guidelines for inclusive language:
+
+* [Inclusive language in presentations](https://github.com/hcorona/diversity-inclusion/blob/master/inclusive-language-presentations.md)
 
 #### 3.3 Avoid gendered terms
 
@@ -498,8 +502,6 @@ A slightly more out of the box approach could be to save money that usually goes
 
 * Focus more on regional speakers to reduce travel costs
 * Allow for more user generated content by providing an un-conference track. The focus of these talks is about connecting people working on similar topics, so a talk about “what do I do at work” is totally fine and can be a great stepping stone towards a future talk on a more specific topic.
-
-For further reading please look at [this post](https://www.patreon.com/posts/inclusive-events-19148031) by Karolina Szczur.
 
 ## 16. Sources
 
