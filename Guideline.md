@@ -333,7 +333,6 @@ Avoid items that are difficult to cut or handle (such as lobster in shells).
 * Provide additional servers to assist attendees. Buffet style service is difficult for many people with various types of disabilities. Servers may offer assistance describing items, reaching for food, and carrying plates and drinks to tables.
 * Attendees may have personal assistants with them to help get food and/or eat. Assistants who are eating may need to go through the buffet line twice.
 * Consider setting extra buffet lines if many attendees have disabilities, as they may need a little more time to go through the line.
-* If you offer environmentally friendly paper straws, make sure you also offer regular plastic straws for attendees have disabilities that may require these.
 
 #### 8.7 Alcohol and increased harassment risk
 
