@@ -4,7 +4,7 @@
 
 ## Guideline
 
-[Read the complete Guideline](https://github.com/DutchPHPConference/conference-diversity-and-inclusion/blob/master/Guideline.md).
+[Read the complete Guideline](Guideline.md).
 
 ---
 
